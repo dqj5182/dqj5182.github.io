@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+{% include base_path %}
+
 RESEARCH INTEREST
 ------------
 * Computer Vision: Object Centric Learning, 3D Scene Understanding
@@ -38,6 +40,8 @@ TEACHING EXPERIENCE
   
 HONORS & AWARDS
 ------------
-* [IEEE Member of the Month Award](https://sites.psu.edu/psuieee/member-of-the-month-2/) | Sponsored by [KCF Technologies](https://kcftech.com/)
+* [IEEE Member of the Month Award](https://sites.psu.edu/psuieee/member-of-the-month-2/)
+  - Sponsored by [KCF Technologies](https://kcftech.com/)
 
-* [HackPSU Social Justice Award](https://devpost.com/software/fake-new-detector-chatbot-using-neural-networking) | Project title: Fake News Detector Chatbot using Neural Network
+* [HackPSU Social Justice Award](https://devpost.com/software/fake-new-detector-chatbot-using-neural-networking)
+  - Project title: Fake News Detector Chatbot using Neural Network
