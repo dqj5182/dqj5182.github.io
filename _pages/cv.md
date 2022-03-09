@@ -24,10 +24,10 @@ EDUCATION
 RESEARCH EXPERIENCE
 ======
 * Research Intern KAIST Vision & Learning Lab, Daejeon, South Korea (Jun 2021 - Aug 2021)
-- Advisor: Seunghoon Hong
+  - Advisor: Seunghoon Hong
 
 * Research Intern Penn State Information, Knowledge, and wEb Group (The PIKE Group), University Park, PA, United States (Aug 2019 - Aug 2020)
-- Advisor: Dongwon Lee
+  - Advisor: Dongwon Lee
 
 PUBLICATIONS
 ======
@@ -36,7 +36,7 @@ To Be Announced
 TEACHING EXPERIENCE
 ======
 * Teaching Assistant Penn State Department of Economics, Introductory Microeconomic Analysis and Policy (ECON 102)
-- Instructor: Austin Boyle
+  - Instructor: Austin Boyle
   
 HONORS & AWARDS
 ======
