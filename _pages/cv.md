@@ -1,3 +1,13 @@
+---
+permalink: /
+title: 
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 RESEARCH INTEREST
 ------------
 * Computer Vision: Object Centric Learning, 3D Scene Understanding
