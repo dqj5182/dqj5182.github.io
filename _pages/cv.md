@@ -16,7 +16,7 @@ RESEARCH INTEREST
 
 EDUCATION
 ------------
-* B.S. (Ongoing) Statistical Modeling Data Science, The Pennsylvania State University (Aug 2017 - Dec 2021))
+* B.S. (Ongoing) Statistical Modeling Data Science, [The Pennsylvania State University](https://www.psu.edu/) (Aug 2017 - Dec 2021))
   - Cumulative GPA: 3.84/4.00 (Major GPA: 3.88/4.00, Junior & Senior GPA: 3.98/4.00)
   - Advisors: Dongwon Lee, Kaamran Raahemifar
 
