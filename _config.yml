@@ -13,7 +13,7 @@ name                     : &name "Daniel Jung (Sungho)"
 description              : &description "Computer Vision Researcher"
 url                      : https://dqj5182.github.io # the base hostname & protocol for your site e.g. "https://dqj5182.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "dqj5182/dqj5182.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -97,22 +97,11 @@ author:
   facebook         :
   foursquare       :
   github           : "https://github.com/dqj5182?tab=repositories"
-  google_plus      :
-  keybase          :
   instagram        :
-  impactstory      : 
-  lastfm           :
   linkedin         : "https://www.linkedin.com/in/danieljung0121/"
   orcid            : 
-  pinterest        :
-  soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
   twitter          : 
-  vine             :
-  weibo            :
-  xing             :
   youtube          :
   wikipedia        :
 
