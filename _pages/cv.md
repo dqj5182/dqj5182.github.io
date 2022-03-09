@@ -35,7 +35,7 @@ PUBLICATIONS
 ======
 To Be Announced
   
-TEACHING
+TEACHING EXPERIENCE
 ======
 * Teaching Assistant Penn State Department of Economics, Introductory Microeconomic Analysis and Policy (ECON 102)
 - Instructor: Austin Boyle
