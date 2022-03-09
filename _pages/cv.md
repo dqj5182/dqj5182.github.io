@@ -1,14 +1,3 @@
----
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
-
-{% include base_path %}
-
 RESEARCH INTEREST
 ======
 * Computer Vision: Object Centric Learning, 3D Scene Understanding
