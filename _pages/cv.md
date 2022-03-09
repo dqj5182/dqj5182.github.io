@@ -11,11 +11,9 @@ redirect_from:
 
 RESEARCH INTEREST
 ======
-Computer Vision: Object Centric Learning, 3D Scene Understanding
-
-Graph Neural Network: Protein Structure Prediction Model, Drug Discovery, Point Cloud
-
-Machine Learning: Meta-Learning, Reinforcement Learning, Few-shot Learning
+* Computer Vision: Object Centric Learning, 3D Scene Understanding
+* Graph Neural Network: Protein Structure Prediction Model, Drug Discovery, Point Cloud
+* Machine Learning: Meta-Learning, Reinforcement Learning, Few-shot Learning
 
 EDUCATION
 ======
@@ -42,6 +40,6 @@ TEACHING EXPERIENCE
   
 HONORS & AWARDS
 ======
-IEEE Member of the Month Award | Sponsored by KCF Technologies
+* IEEE Member of the Month Award | Sponsored by KCF Technologies
 
-HackPSU Social Justice Award | Project title: Fake News Detector Chatbot using Neural Network
+* HackPSU Social Justice Award | Project title: Fake News Detector Chatbot using Neural Network
