@@ -25,7 +25,7 @@ EDUCATION
 
 RESEARCH EXPERIENCE
 ------------
-* PhD Candidate (Ongoing) [SNU CV Lab](https://cv.snu.ac.kr/), Seoul, South Korea (Jan 2022 - Present))
+* PhD Candidate (Ongoing) [SNU Computer Vision Lab](https://cv.snu.ac.kr/), Seoul, South Korea (Jan 2022 - Present))
   - Advisors: [Kyoung Mu Lee](https://cv.snu.ac.kr/index.php/kmlee/)
   - Research Area: 3D Human Pose Estimation
 
