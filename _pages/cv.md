@@ -17,17 +17,25 @@ RESEARCH INTEREST
 
 EDUCATION
 ------------
-* B.S. (Ongoing) [Statistical Modeling Data Science](https://datasciences.psu.edu/), [The Pennsylvania State University](https://www.psu.edu/) (Aug 2017 - Dec 2021))
+* Ph.D. (Ongoing) [Artificial Intelligence](https://gsai.snu.ac.kr/), [Seoul National University](https://snu.ac.kr/) (Mar 2022 - Present))
+  - Advisors: [Kyoung Mu Lee](https://cv.snu.ac.kr/index.php/kmlee/)
+* B.S. [Statistical Modeling Data Science](https://datasciences.psu.edu/), [The Pennsylvania State University](https://www.psu.edu/) (Aug 2017 - Dec 2021))
   - Cumulative GPA: 3.84/4.00 (Major GPA: 3.88/4.00, Junior & Senior GPA: 3.98/4.00)
   - Advisors: [Dongwon Lee](https://ist.psu.edu/directory/dul13), [Kaamran Raahemifar](https://ist.psu.edu/directory/kvr5517)
 
 RESEARCH EXPERIENCE
 ------------
+* PhD Candidate (Ongoing) [SNU CV Lab](https://cv.snu.ac.kr/), Seoul, South Korea (Jan 2022 - Present))
+  - Advisors: [Kyoung Mu Lee](https://cv.snu.ac.kr/index.php/kmlee/)
+  - Research Area: 3D Human Pose Estimation
+
 * Research Intern [KAIST Vision & Learning Lab](https://vllab.kaist.ac.kr/), Daejeon, South Korea (Jun 2021 - Aug 2021)
   - Advisor: [Seunghoon Hong](https://maga33.github.io/)
+  - Research Area: Graph Neural Network, Transformer
 
 * Research Intern [Penn State Information, Knowledge, and wEb Group (The PIKE Group)](https://pike.psu.edu/), University Park, PA, United States (Aug 2019 - Aug 2020)
   - Advisor: [Dongwon Lee](https://ist.psu.edu/directory/dul13)
+  - Research Area: Data Mining in Social Media
 
 PUBLICATIONS
 ------------
