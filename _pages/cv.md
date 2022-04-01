@@ -17,15 +17,15 @@ RESEARCH INTEREST
 
 EDUCATION
 ------------
-* Ph.D. (Ongoing) [Artificial Intelligence](https://gsai.snu.ac.kr/), [Seoul National University](https://snu.ac.kr/) (Mar 2022 - Present))
+* Ph.D. in [Artificial Intelligence](https://gsai.snu.ac.kr/), [Seoul National University](https://snu.ac.kr/) (Mar 2022 - Present))
   - Advisors: [Kyoung Mu Lee](https://cv.snu.ac.kr/index.php/kmlee/)
-* B.S. [Statistical Modeling Data Science](https://datasciences.psu.edu/), [The Pennsylvania State University](https://www.psu.edu/) (Aug 2017 - Dec 2021))
+* B.S. in [Statistical Modeling Data Science](https://datasciences.psu.edu/), [The Pennsylvania State University](https://www.psu.edu/) (Aug 2017 - Dec 2021))
   - Cumulative GPA: 3.84/4.00 (Major GPA: 3.88/4.00, Junior & Senior GPA: 3.98/4.00)
   - Advisors: [Dongwon Lee](https://ist.psu.edu/directory/dul13), [Kaamran Raahemifar](https://ist.psu.edu/directory/kvr5517)
 
 RESEARCH EXPERIENCE
 ------------
-* PhD Candidate (Ongoing) [SNU Computer Vision Lab](https://cv.snu.ac.kr/), Seoul, South Korea (Jan 2022 - Present))
+* PhD Candidate [SNU Computer Vision Lab](https://cv.snu.ac.kr/), Seoul, South Korea (Jan 2022 - Present))
   - Advisors: [Kyoung Mu Lee](https://cv.snu.ac.kr/index.php/kmlee/)
   - Research Area: 3D Human Pose Estimation
 
