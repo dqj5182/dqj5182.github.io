@@ -29,11 +29,11 @@ RESEARCH EXPERIENCE
   - Advisors: [Kyoung Mu Lee](https://cv.snu.ac.kr/index.php/kmlee/)
   - Research Area: 3D Human Pose Estimation
 
-* Research Intern [KAIST Vision & Learning Lab](https://vllab.kaist.ac.kr/), Daejeon, South Korea (Jun 2021 - Aug 2021)
+* Visiting Student Researcher [KAIST Vision & Learning Lab](https://vllab.kaist.ac.kr/), Daejeon, South Korea (Jun 2021 - Aug 2021)
   - Advisor: [Seunghoon Hong](https://maga33.github.io/)
   - Research Area: Graph Neural Network, Transformer
 
-* Research Intern [Penn State Information, Knowledge, and wEb Group (The PIKE Group)](https://pike.psu.edu/), University Park, PA, United States (Aug 2019 - Aug 2020)
+* Undergraduate Research Assistant [Penn State Information, Knowledge, and wEb Group (The PIKE Group)](https://pike.psu.edu/), University Park, PA, United States (Aug 2019 - Aug 2020)
   - Advisor: [Dongwon Lee](https://ist.psu.edu/directory/dul13)
   - Research Area: Data Mining in Social Media
 
