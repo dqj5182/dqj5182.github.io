@@ -17,7 +17,7 @@ RESEARCH INTEREST
 
 EDUCATION
 ------------
-* M.S. in [Artificial Intelligence](https://gsai.snu.ac.kr/), [Seoul National University](https://snu.ac.kr/) (Mar 2022 - Present))
+* Ph.D. in [Artificial Intelligence](https://gsai.snu.ac.kr/), [Seoul National University](https://snu.ac.kr/) (Mar 2022 - Present))
   - Advisors: [Kyoung Mu Lee](https://cv.snu.ac.kr/index.php/kmlee/)
 * B.S. in [Statistical Modeling Data Science](https://datasciences.psu.edu/), [The Pennsylvania State University](https://www.psu.edu/) (Aug 2017 - Dec 2021))
   - Cumulative GPA: 3.85/4.00 (Major GPA: 3.88/4.00, Junior & Senior GPA: 3.98/4.00)
