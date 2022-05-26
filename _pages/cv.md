@@ -11,9 +11,7 @@ redirect_from:
 
 RESEARCH INTEREST
 ------------
-* Computer Vision: Object Centric Learning, 3D Scene Understanding
-* Graph Neural Network: Protein Structure Prediction Model, Drug Discovery, Point Cloud
-* Machine Learning: Meta-Learning, Reinforcement Learning, Few-shot Learning
+* 3D Human Pose Estimation in the Video
 
 EDUCATION
 ------------
