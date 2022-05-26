@@ -11,7 +11,7 @@ redirect_from:
 
 RESEARCH INTEREST
 ------------
-* 3D Human Pose Estimation in the Video
+* 3D Human Pose Estimation
 
 EDUCATION
 ------------
