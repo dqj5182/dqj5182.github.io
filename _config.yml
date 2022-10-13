@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Daniel Jung (Sungho)"
+title                    : "Daniel Sungho Jung"
 title_separator          : "-"
-name                     : &name "Daniel Jung (Sungho)"
+name                     : &name "Daniel Sungho Jung"
 description              : &description "Computer Vision Researcher"
 url                      : https://dqj5182.github.io # the base hostname & protocol for your site e.g. "https://dqj5182.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
