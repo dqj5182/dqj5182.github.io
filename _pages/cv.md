@@ -42,7 +42,7 @@ To Be Announced
   
 TEACHING EXPERIENCE
 ------------
-* Teaching Assistant [Penn State Department of Economics](https://econ.la.psu.edu/), [Introductory Microeconomic Analysis and Policy (ECON 102)](https://bulletins.psu.edu/university-course-descriptions/undergraduate/econ/)
+* Teaching Assistant @ [Penn State Department of Economics](https://econ.la.psu.edu/), [Introductory Microeconomic Analysis and Policy (ECON 102)](https://bulletins.psu.edu/university-course-descriptions/undergraduate/econ/)
   - Instructor: [Austin Boyle](https://econ.la.psu.edu/people/alb43/)
   
 HONORS & AWARDS
