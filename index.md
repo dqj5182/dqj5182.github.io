@@ -8,8 +8,8 @@ I am a second-year Ph.D candidate at [SNU Computer Vision Lab](https://cv.snu.ac
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **3D Human Mesh Reconstruction:** How to reconstruct human pose and shape from a monocular RGB image/video?
+- **3D Scene Reconstruction:** What are the important components of the scene that makes up our world?
 
 ## News
 
