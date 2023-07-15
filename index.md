@@ -20,6 +20,4 @@ Since an early age, my great passion lied in automobiles. How they travel from o
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/workshops.md %}
-
 {% include_relative _includes/services.md %}
