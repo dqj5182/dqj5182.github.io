@@ -9,12 +9,12 @@ I am a second-year Ph.D candidate at [SNU Computer Vision Lab](https://cv.snu.ac
 ## Research Interests
 
 - **3D Human Mesh Reconstruction:** How to reconstruct human pose and shape from a monocular RGB image/video?
-- **3D Scene Reconstruction:** What are the important components of the scene that makes up our world?
+- **3D Scene Reconstruction:** What are the important components of the scene that makes up our world around us?
 
 ## News
 
-- **[Jul. 2023]** Our paper about test-time adaptation is accepted to ICCV 2023.
-- **[May. 2023]** We will present at the 1st RHOBIN challenge at CVPR 2023 in Vancouver, Canada!
+- **[Jul. 2023]** Our paper about test-time adaptation is accepted to [ICCV 2023](https://iccv2023.thecvf.com/).
+- **[May. 2023]** We will present at [the 1st RHOBIN challenge](https://rhobin-challenge.github.io/) at [CVPR 2023](https://cvpr2023.thecvf.com/) in Vancouver, Canada!
 
 {% include_relative _includes/publications.md %}
 
