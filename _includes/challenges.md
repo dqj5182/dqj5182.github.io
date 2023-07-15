@@ -1,4 +1,4 @@
-<h2 id="workshops" style="margin: 2px 0px -15px;">Workshops</h2>
+<h2 id="challenges" style="margin: 2px 0px -15px;">Challenges</h2>
 
 <div class="publications">
 <ol class="bibliography">
