@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a second-year Ph.D candidate at SNU Computer Vision Lab advised by Prof. Kyoung Mu Lee (Editor in Cheif of TPAMI). Before joining SNU, I finished my undergradute degree at Penn State and had wonderful experience at KAIST VL Lab with Prof. Seunghoon Hong. Also, I worked closely with Prof. Dongwon Lee from The PIKE Group at Penn State under collaboration with Dr. Hye Joon Park.
 
 ## Research Interests
 
