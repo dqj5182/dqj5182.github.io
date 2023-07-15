@@ -13,10 +13,8 @@ I am a second-year Ph.D candidate at [SNU Computer Vision Lab](https://cv.snu.ac
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Jul. 2023]** Our paper about test-time adaptation is accepted to ICCV 2023.
+- **[May. 2023]** We will present at the 1st RHOBIN challenge at CVPR 2023 in Vancouver, Canada!
 
 {% include_relative _includes/publications.md %}
 
