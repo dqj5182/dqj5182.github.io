@@ -16,7 +16,7 @@ Since an early age, my great passion lied in automobiles. How they travel from o
 ## News
 
 - **[Jul. 2023]** Our paper about test-time adaptation is accepted to [ICCV 2023](https://iccv2023.thecvf.com/).
-- **[May. 2023]** We will present at [the 1st RHOBIN challenge](https://rhobin-challenge.github.io/) at [CVPR 2023](https://cvpr2023.thecvf.com/) in Vancouver, Canada!
+- **[May. 2023]** We will present at [the 1st RHOBIN challenge](https://rhobin-challenge.github.io/) of [CVPR 2023](https://cvpr2023.thecvf.com/) in Vancouver, Canada!
 
 {% include_relative _includes/publications.md %}
 
