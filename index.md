@@ -11,7 +11,7 @@ I am a second-year Ph.D candidate at [SNU Computer Vision Lab](https://cv.snu.ac
 Since an early age, my great passion lied in automobiles. How they travel from one place to another in multiple scenarios and events was always fascinating. The final goal of my research sits in this childhood dream that one day I can make cars "perceive" and "interact" with the world. Under this mission, my current research interests are as follows:
 
 - **3D Human Mesh Reconstruction:** How to reconstruct human pose and shape from a monocular RGB image/video?
-- **3D Scene Reconstruction:** What are the important components of the scene that makes up our world around us?
+- **3D Scene Reconstruction:** How to create 3D scene based solely on vision input?
 
 ## News
 
