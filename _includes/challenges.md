@@ -14,7 +14,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://rhobin-challenge.github.io/">The 1st Place Winner for Joint Reconstruction of Human and Object Track ($500 Award Prize by Adobe)</a></div>
     <div class="author">Hyeongjin Nam, <strong>Daniel Sungho Jung</strong>, Kihoon Kim, Kyoung Mu Lee</div>
-    <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023</em></div>
+    <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023.</em></div>
     <div class="links">
       <a href="https://rhobin-challenge.github.io/papers.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Announcement</a>
     </div>
