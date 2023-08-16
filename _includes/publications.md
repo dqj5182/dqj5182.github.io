@@ -17,7 +17,7 @@
     <div class="periodical"><em>IEEE/CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2023.</em></div>
     <div class="links">
       <a href="https://cv.snu.ac.kr" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://cv.snu.ac.kr" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://github.com/hygenie1228/CycleAdapt_RELEASE" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://arxiv.org/abs/2308.06554" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Arxiv</a>
     </div>
   </div>
