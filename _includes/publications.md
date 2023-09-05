@@ -16,7 +16,7 @@
     <div class="periodical"><em>IEEE/CVF International Conference on Computer Vision Workshops <strong>(ICCVW)</strong>, 2023.</em></div>
     <div class="links">
         <a href="https://cv.snu.ac.kr/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-        <a href="https://cv.snu.ac.kr/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+        <a href="https://github.com/jkpark0825/EANet" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
         <a href="https://cv.snu.ac.kr/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Arxiv</a>
     </div>
   </div>
