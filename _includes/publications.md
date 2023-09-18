@@ -18,6 +18,7 @@
         <a href="https://drive.google.com/file/d/1CfjMxg-qDLS-MPkUF595NimC_AOYdPwl/view?usp=sharing" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
         <a href="https://github.com/jkpark0825/EANet" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
         <a href="http://arxiv.org/abs/2309.01943" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Arxiv</a>
+        <strong><a style="color:#e74d3c; font-weight:600"><i>Oral Presentation</i></a></strong>
     </div>
   </div>
 </div>
