@@ -11,11 +11,11 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://drive.google.com/file/d/1CfjMxg-qDLS-MPkUF595NimC_AOYdPwl/view?usp=sharing">Extract-and-Adaptation Network for 3D Interacting Hand Mesh Recovery</a></div>
+    <div class="title"><a href="https://openaccess.thecvf.com/content/ICCV2023W/CV4Metaverse/papers/Park_Extract-and-Adaptation_Network_for_3D_Interacting_Hand_Mesh_Recovery_ICCVW_2023_paper.pdf">Extract-and-Adaptation Network for 3D Interacting Hand Mesh Recovery</a></div>
     <div class="author">JoonKyu Park*, <strong>Daniel Sungho Jung*</strong>, Gyeongsik Moon*, Kyoung Mu Lee</div>
     <div class="periodical"><em>IEEE/CVF International Conference on Computer Vision Workshops <strong>(ICCVW)</strong>, 2023.</em></div>
     <div class="links">
-        <a href="https://drive.google.com/file/d/1CfjMxg-qDLS-MPkUF595NimC_AOYdPwl/view?usp=sharing" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+        <a href="https://openaccess.thecvf.com/content/ICCV2023W/CV4Metaverse/papers/Park_Extract-and-Adaptation_Network_for_3D_Interacting_Hand_Mesh_Recovery_ICCVW_2023_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
         <a href="https://github.com/jkpark0825/EANet" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
         <a href="http://arxiv.org/abs/2309.01943" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Arxiv</a>
         <strong><a style="color:#e74d3c; font-weight:600"><i>Oral Presentation</i></a></strong>
