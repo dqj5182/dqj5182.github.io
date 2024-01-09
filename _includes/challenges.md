@@ -17,7 +17,7 @@
     <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023.</em></div>
     <div class="links">
       <a href="https://rhobin-challenge.github.io/papers.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Announcement</a>
-      <a href="[https://rhobin-challenge.github.io/papers.html](https://youtu.be/3dlwTVGWStI?feature=shared)" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
+      <a href="https://youtu.be/3dlwTVGWStI?feature=shared" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
     </div>
   </div>
 </div>
