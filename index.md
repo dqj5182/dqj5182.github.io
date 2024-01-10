@@ -15,7 +15,7 @@ Since an early age, my great passion lied in automobiles. How they travel from o
 
 ## News
 
-- **[Jan. 2024]** Our technical paper on [the 1st RHOBIN challenge](https://rhobin-challenge.github.io/) will be released on Arxiv shortly!
+- **[Jan. 2024]** Our technical paper on [the 1st RHOBIN challenge](https://rhobin-challenge.github.io/) is now on [Arxiv](https://arxiv.org/pdf/2401.04143.pdf)!
 - **[Aug. 2023]** Our paper about interacting hand mesh recovery is accepted to [ICCVW 2023](https://iccv2023.thecvf.com/).
 - **[Jul. 2023]** Our paper about test-time adaptation is accepted to [ICCV 2023](https://iccv2023.thecvf.com/).
 - **[May. 2023]** We will present at [the 1st RHOBIN challenge](https://rhobin-challenge.github.io/) of [CVPR 2023](https://cvpr2023.thecvf.com/) in Vancouver, Canada!
