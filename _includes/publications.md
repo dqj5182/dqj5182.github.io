@@ -14,7 +14,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2401.04143.pdf">RHOBIN Challenge: Reconstruction of Human Object Interaction</a></div>
     <div class="author">Xianghui Xie, Xi Wang, Nikos Athanasiou, Bharat Lal Bhatnagar, Chun-Hao P. Huang, Kaichun Mo, Hao Chen, Xia Jia, Zerui Zhang, Liangxian Cui, Xiao Lin, Bingqiao Qian, Jie Xiao, Wenfei Yang, Hyeongjin Nam, <strong>Daniel Sungho Jung</strong>, Kihoon Kim, Kyoung Mu Lee, Otmar Hilliges, Gerard Pons-Moll</div>
-    <div class="periodical"><em>Technical Report</strong>, 2024</em></div>
+    <div class="periodical"><em>Technical Report</strong>, 2024.</em></div>
     <div class="links">
         <a href="https://arxiv.org/abs/2401.04143" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Arxiv</a>
     </div>
