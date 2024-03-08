@@ -25,30 +25,6 @@
   
 <br>
 
-
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/rhobin_tech3.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Tech Report</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2401.04143.pdf">RHOBIN Challenge: Reconstruction of Human Object Interaction</a></div>
-    <div class="author">Xianghui Xie, Xi Wang, Nikos Athanasiou, Bharat Lal Bhatnagar, Chun-Hao P. Huang, Kaichun Mo, Hao Chen, Xia Jia, Zerui Zhang, Liangxian Cui, Xiao Lin, Bingqiao Qian, Jie Xiao, Wenfei Yang, Hyeongjin Nam, <strong>Daniel Sungho Jung</strong>, Kihoon Kim, Kyoung Mu Lee, Otmar Hilliges, Gerard Pons-Moll</div>
-    <div class="periodical"><em>Technical Report, 2024.</em></div>
-    <div class="links">
-        <a href="https://arxiv.org/abs/2401.04143" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Arxiv</a>
-    </div>
-  </div>
-</div>
-</li>
-  
-<br>
-
-
-
-
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -91,6 +67,26 @@
       <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Nam_Cyclic_Test-Time_Adaptation_on_Monocular_Video_for_3D_Human_Mesh_ICCV_2023_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/hygenie1228/CycleAdapt_RELEASE" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://arxiv.org/abs/2308.06554" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Arxiv</a>
+    </div>
+  </div>
+</div>
+</li>
+  
+<br>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/rhobin_tech3.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">CVPRW</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2401.04143.pdf">RHOBIN Challenge: Reconstruction of Human Object Interaction</a></div>
+    <div class="author">Xianghui Xie, Xi Wang, Nikos Athanasiou, Bharat Lal Bhatnagar, Chun-Hao P. Huang, Kaichun Mo, Hao Chen, Xia Jia, Zerui Zhang, Liangxian Cui, Xiao Lin, Bingqiao Qian, Jie Xiao, Wenfei Yang, Hyeongjin Nam, <strong>Daniel Sungho Jung</strong>, Kihoon Kim, Kyoung Mu Lee, Otmar Hilliges, Gerard Pons-Moll</div>
+    <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops <strong>(CVPRW)</strong>, 2023.</em></div>
+    <div class="links">
+        <a href="https://arxiv.org/abs/2401.04143" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Arxiv</a>
     </div>
   </div>
 </div>
