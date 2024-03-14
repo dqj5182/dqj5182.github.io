@@ -4,6 +4,24 @@
 <ol class="bibliography">
 
 
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/Arxiv2024_SMD.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Arxiv</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://cv.snu.ac.kr/">StreamMultiDiffusion: Real-Time Interactive Generation with Region-Based Semantic Control</a></div>
+    <div class="author">Jaerin Lee, <strong>Daniel Sungho Jung</strong>, Kanggeon Lee, Kyoung Mu Lee</div>
+    <div class="periodical"><em><strong>Arxiv</strong>, 2024.</em></div>
+    <div class="links">
+        <a href="https://github.com/ironjr/StreamMultiDiffusion" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+</li>
+
 
 <li>
 <div class="pub-row">
