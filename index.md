@@ -15,9 +15,10 @@ Since an early age, my great passion lied in automobiles. How they travel from o
 
 ## News
 
+- **[Feb. 2024]** One paper about interactive generation is presented to Arxiv.
 - **[Feb. 2024]** One paper about human and object is accepted to [CVPR 2024](https://cvpr.thecvf.com/Conferences/2024).
-- **[Aug. 2023]** Our paper about interacting hand mesh recovery is accepted to [ICCVW 2023](https://iccv2023.thecvf.com/).
-- **[Jul. 2023]** Our paper about test-time adaptation is accepted to [ICCV 2023](https://iccv2023.thecvf.com/).
+- **[Aug. 2023]** One paper about interacting hand mesh recovery is accepted to [ICCVW 2023](https://iccv2023.thecvf.com/).
+- **[Jul. 2023]** One paper about test-time adaptation is accepted to [ICCV 2023](https://iccv2023.thecvf.com/).
 
 {% include_relative _includes/publications.md %}
 
