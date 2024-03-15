@@ -17,6 +17,7 @@
     <div class="periodical"><em><strong>Arxiv</strong>, 2024.</em></div>
     <div class="links">
         <a href="https://github.com/ironjr/StreamMultiDiffusion" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+        <a href="https://arxiv.org/abs/2403.09055" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Arxiv</a>
     </div>
   </div>
 </div>
