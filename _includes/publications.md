@@ -12,7 +12,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://cv.snu.ac.kr/">StreamMultiDiffusion: Real-Time Interactive Generation with Region-Based Semantic Control</a></div>
+    <div class="title"><a href="https://arxiv.org/abs/2403.09055">StreamMultiDiffusion: Real-Time Interactive Generation with Region-Based Semantic Control</a></div>
     <div class="author">Jaerin Lee, <strong>Daniel Sungho Jung</strong>, Kanggeon Lee, Kyoung Mu Lee</div>
     <div class="periodical"><em><strong>Arxiv</strong>, 2024.</em></div>
     <div class="links">
