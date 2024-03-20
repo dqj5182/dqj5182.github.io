@@ -16,8 +16,9 @@
     <div class="author">Jaerin Lee, <strong>Daniel Sungho Jung</strong>, Kanggeon Lee, Kyoung Mu Lee</div>
     <div class="periodical"><em><strong>Arxiv</strong>, 2024.</em></div>
     <div class="links">
-        <a href="https://github.com/ironjr/StreamMultiDiffusion" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
         <a href="https://arxiv.org/abs/2403.09055" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Arxiv</a>
+        <a href="https://github.com/ironjr/StreamMultiDiffusion" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+        <a href="https://huggingface.co/spaces/ironjr/SemanticPalette" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Demo</a>
     </div>
   </div>
 </div>
@@ -57,8 +58,8 @@
     <div class="periodical"><em>IEEE/CVF International Conference on Computer Vision Workshops <strong>(ICCVW)</strong>, 2023.</em></div>
     <div class="links">
         <a href="https://openaccess.thecvf.com/content/ICCV2023W/CV4Metaverse/papers/Park_Extract-and-Adaptation_Network_for_3D_Interacting_Hand_Mesh_Recovery_ICCVW_2023_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-        <a href="https://github.com/jkpark0825/EANet" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
         <a href="http://arxiv.org/abs/2309.01943" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Arxiv</a>
+        <a href="https://github.com/jkpark0825/EANet" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
         <strong><a style="color:#e74d3c; font-weight:600"><i>Oral Presentation</i></a></strong>
     </div>
   </div>
@@ -84,8 +85,8 @@
     <div class="periodical"><em>IEEE/CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2023.</em></div>
     <div class="links">
       <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Nam_Cyclic_Test-Time_Adaptation_on_Monocular_Video_for_3D_Human_Mesh_ICCV_2023_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/hygenie1228/CycleAdapt_RELEASE" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://arxiv.org/abs/2308.06554" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Arxiv</a>
+      <a href="https://github.com/hygenie1228/CycleAdapt_RELEASE" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
 </div>
