@@ -16,6 +16,7 @@
     <div class="author">Jaerin Lee, <strong>Daniel Sungho Jung</strong>, Kanggeon Lee, Kyoung Mu Lee</div>
     <div class="periodical"><em><strong>Arxiv</strong>, 2024.</em></div>
     <div class="links">
+        <a href="https://jaerinlee.com/research/streammultidiffusion" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project</a>
         <a href="https://arxiv.org/abs/2403.09055" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Arxiv</a>
         <a href="https://github.com/ironjr/StreamMultiDiffusion" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
         <a href="https://huggingface.co/spaces/ironjr/SemanticPaletteXL" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Demo</a>
