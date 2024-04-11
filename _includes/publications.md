@@ -7,6 +7,29 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/CVPR2024_CONTHO3.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">CVPR</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://cv.snu.ac.kr/">Joint Reconstruction of 3D Human and Object via Contact-Based Refinement Transformer</a></div>
+    <div class="author">Hyeongjin Nam*, <strong>Daniel Sungho Jung*</strong>, Gyeongsik Moon, Kyoung Mu Lee (* equal contribution)</div>
+    <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.</em></div>
+    <div class="links">
+        <a href="https://arxiv.org/abs/2404.04819" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Arxiv</a>
+        <a href="https://github.com/dqj5182/CONTHO_RELEASE" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+</li>
+
+
+<br>
+
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/Arxiv2024_SMD.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Arxiv</abbr>
   </div>
@@ -25,25 +48,6 @@
 </div>
 </li>
 
-
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/CVPR2024_CONTHO3.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">CVPR</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://cv.snu.ac.kr/">Joint Reconstruction of 3D Human and Object via Contact-Based Refinement Transformer</a></div>
-    <div class="author">Hyeongjin Nam*, <strong>Daniel Sungho Jung*</strong>, Gyeongsik Moon, Kyoung Mu Lee (* equal contribution)</div>
-    <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.</em></div>
-    <div class="links">
-        <a href="https://arxiv.org/abs/2404.04819" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Arxiv</a>
-        <a href="https://github.com/dqj5182/CONTHO_RELEASE" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-    </div>
-  </div>
-</div>
-</li>
   
 <br>
 
