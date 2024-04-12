@@ -12,7 +12,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://cv.snu.ac.kr/">Joint Reconstruction of 3D Human and Object via Contact-Based Refinement Transformer</a></div>
+    <div class="title"><a href="https://arxiv.org/abs/2404.04819">Joint Reconstruction of 3D Human and Object via Contact-Based Refinement Transformer</a></div>
     <div class="author">Hyeongjin Nam*, <strong>Daniel Sungho Jung*</strong>, Gyeongsik Moon, Kyoung Mu Lee (* equal contribution)</div>
     <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.</em></div>
     <div class="links">
