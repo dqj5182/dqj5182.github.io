@@ -22,9 +22,9 @@ How far away we are to each other, we always wish to be near our loved ones. My 
 ## News
 
 - **[Jun. 2024]** One paper about human and object will be presented at [CVPR 2024](https://cvpr.thecvf.com/Conferences/2024).
-- **[Mar. 2024]** One paper about interactive generation is presented to [Arxiv](https://arxiv.org/).
-- **[Aug. 2023]** One paper about interacting hand mesh recovery is accepted to [ICCVW 2023](https://iccv2023.thecvf.com/).
-- **[Jul. 2023]** One paper about test-time adaptation is accepted to [ICCV 2023](https://iccv2023.thecvf.com/).
+- **[Mar. 2024]** One paper about interactive generation is uploaded to [Arxiv](https://arxiv.org/).
+- **[Aug. 2023]** One paper about interacting hand mesh recovery is presented at [ICCVW 2023](https://iccv2023.thecvf.com/).
+- **[Jul. 2023]** One paper about test-time adaptation is presneted at [ICCV 2023](https://iccv2023.thecvf.com/).
 
 {% include_relative _includes/publications.md %}
 
