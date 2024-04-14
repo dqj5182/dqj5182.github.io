@@ -2,6 +2,13 @@
 layout: homepage
 ---
 
+
+<p align=center>
+  <strong>“Theory Will Take You Only So Far”</strong>
+  <br/>
+  -J. Robert Oppenheimer-
+</p>
+
 ## About Me
 
 I am a third-year Ph.D candidate at [SNU Computer Vision Lab](https://cv.snu.ac.kr/) advised by [Prof. Kyoung Mu Lee](https://cv.snu.ac.kr/index.php/~kmlee/) (Editor in Cheif of [TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)). Before joining [SNU](https://en.snu.ac.kr/), I finished my undergradute degree at [Penn State](https://www.psu.edu/) and had a wonderful experience at [KAIST Vision & Learning Lab](https://vllab.kaist.ac.kr/) with [Prof. Seunghoon Hong](https://maga33.github.io/). Also, I worked closely with [Prof. Dongwon Lee](https://ist.psu.edu/directory/dul13) from [The PIKE Group](https://pike.psu.edu/dongwon/) at [Penn State](https://www.psu.edu/) under collaboration with [Dr. Hye Joon Park](https://www.smeal.psu.edu/management/images/hye-joon-park.jpg/view).
@@ -12,12 +19,6 @@ How far away we are to each other, we always wish to be near our loved ones. My 
 
 - **3D Human Reconstruction:** How to reconstruct human from a monocular RGB image/video?
 - **3D Scene Reconstruction:** How to create 3D scene based solely on vision input?
-
-<p align=center>
-  <strong>“Theory Will Take You Only So Far”</strong>
-  <br/>
-  -J. Robert Oppenheimer-
-</p>
 
 ## News
 
