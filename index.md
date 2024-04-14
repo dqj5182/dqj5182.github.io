@@ -8,6 +8,7 @@ I am a third-year Ph.D candidate at [SNU Computer Vision Lab](https://cv.snu.ac.
 
 <p style="text-align: center;">
   <strong>“Theory Will Take You Only So Far”</strong>
+  <br/>
   -J. Robert Oppenheimer-
 </p>
 
