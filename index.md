@@ -23,8 +23,8 @@ How far away we are to each other, we always wish to be near our loved ones. My 
 
 - **[Jun. 2024]** One paper about human and object will be presented at [CVPR 2024](https://cvpr.thecvf.com/Conferences/2024).
 - **[Mar. 2024]** One paper about interactive generation is uploaded to [Arxiv](https://arxiv.org/).
-- **[Oct. 2023]** Two papers about test-time adaptation and interacting hand are presented at [ICCV 2023](https://iccv2023.thecvf.com/).
-- **[Jun. 2023]** We presented as the winner of challenge at the 1st RHOBIN Workshop of [CVPR 2023](https://cvpr.thecvf.com/Conferences/2023).
+- **[Oct. 2023]** Two papers about test-time and interacting hand are presented at [ICCV 2023](https://iccv2023.thecvf.com/).
+- **[Jun. 2023]** We presented as winner of challenge at the 1st RHOBIN Workshop of [CVPR 2023](https://cvpr.thecvf.com/Conferences/2023).
 
 {% include_relative _includes/publications.md %}
 
