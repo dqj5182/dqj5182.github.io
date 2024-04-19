@@ -50,6 +50,23 @@
               startext.innerHTML=stars;
         });
         </script>
+        <script>
+            $(document).ready(function () {
+                
+                var gsDataBaseUrl = 'https://raw.githubusercontent.com/yaoyao-liu/yaoyao-liu.github.io/'
+                
+                $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function (data) {
+                    var totalCitation = data['publications']['Uf9GqRsAAAAJ:bEWYMUwI8FkC']['num_citations']
+                    document.getElementById('total_citation_mtl').innerHTML = totalCitation;
+                    var citationEles = document.getElementsByClassName('show_paper_citations')
+                    Array.prototype.forEach.call(citationEles, element => {
+                        var paperId = element.getAttribute('data')
+                        var numCitations = data['publications'][paperId]['num_citations']
+                        element.innerHTML = '| Citations: ' + numCitations;
+                    });
+                });
+            })
+        </script>
     </div>
   </div>
 </div>
