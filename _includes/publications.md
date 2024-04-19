@@ -43,6 +43,7 @@
         <a href="https://arxiv.org/abs/2403.09055" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Arxiv</a>
         <a href="https://github.com/ironjr/StreamMultiDiffusion" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
         <a href="https://huggingface.co/spaces/ironjr/SemanticPaletteXL" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Demo</a>
+        <strong> <a href="https://github.com/ironjr/StreamMultiDiffusion" target="_blank" rel="noopener"><i style="color:#e74d3c; font-weight:600" id="githubstars_mtl">600+</i><i style="color:#e74d3c; font-weight:600"> GitHub Stars</i></a> 
         <script>
         githubStars("ironjr/StreamMultiDiffusion ", function(stars) {
         var startext = document.getElementById("githubstars_mtl");
