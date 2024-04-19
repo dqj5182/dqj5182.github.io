@@ -44,7 +44,7 @@
         <a href="https://arxiv.org/abs/2403.09055" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Arxiv</a>
         <a href="https://github.com/ironjr/StreamMultiDiffusion" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
         <a href="https://huggingface.co/spaces/ironjr/SemanticPaletteXL" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Demo</a>
-        
+        <a class="github-button" href="https://github.com/ironjr/StreamMultiDiffusion" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" aria-label="Star ironjr/StreamMultiDiffusion on GitHub">Star</a>
     </div>
   </div>
 </div>
