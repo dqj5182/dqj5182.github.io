@@ -44,29 +44,6 @@
         <a href="https://github.com/ironjr/StreamMultiDiffusion" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
         <a href="https://huggingface.co/spaces/ironjr/SemanticPaletteXL" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Demo</a>
         <strong> <a href="https://github.com/ironjr/StreamMultiDiffusion" target="_blank" rel="noopener"><i style="color:#e74d3c; font-weight:600" id="githubstars_mtl">350+</i><i style="color:#e74d3c; font-weight:600"> GitHub Stars</i></a> 
-        <script>
-        githubStars("ironjr/StreamMultiDiffusion ", function(stars) {
-        var startext = document.getElementById("githubstars_mtl");
-              startext.innerHTML=stars;
-        });
-        </script>
-        <script>
-            $(document).ready(function () {
-                
-                var gsDataBaseUrl = 'https://raw.githubusercontent.com/yaoyao-liu/yaoyao-liu.github.io/'
-                
-                $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function (data) {
-                    var totalCitation = data['publications']['Uf9GqRsAAAAJ:bEWYMUwI8FkC']['num_citations']
-                    document.getElementById('total_citation_mtl').innerHTML = totalCitation;
-                    var citationEles = document.getElementsByClassName('show_paper_citations')
-                    Array.prototype.forEach.call(citationEles, element => {
-                        var paperId = element.getAttribute('data')
-                        var numCitations = data['publications'][paperId]['num_citations']
-                        element.innerHTML = '| Citations: ' + numCitations;
-                    });
-                });
-            })
-        </script>
     </div>
   </div>
 </div>
