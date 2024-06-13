@@ -12,10 +12,11 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2404.04819">Joint Reconstruction of 3D Human and Object via Contact-Based Refinement Transformer</a></div>
+    <div class="title"><a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Nam_Joint_Reconstruction_of_3D_Human_and_Object_via_Contact-Based_Refinement_CVPR_2024_paper.pdf">Joint Reconstruction of 3D Human and Object via Contact-Based Refinement Transformer</a></div>
     <div class="author">Hyeongjin Nam*, <strong>Daniel Sungho Jung*</strong>, Gyeongsik Moon, Kyoung Mu Lee (* equal contribution)</div>
     <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.</em></div>
     <div class="links">
+        <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Nam_Joint_Reconstruction_of_3D_Human_and_Object_via_Contact-Based_Refinement_CVPR_2024_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
         <a href="https://arxiv.org/abs/2404.04819" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Arxiv</a>
         <a href="https://github.com/dqj5182/CONTHO_RELEASE" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
