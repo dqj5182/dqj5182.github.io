@@ -4,6 +4,9 @@ main:
     url: /services/
     right: true 
 
+  - title: "Teaching"
+    url: /teaching/
+    
   - title: "Publications"
     url: /publications/
 
