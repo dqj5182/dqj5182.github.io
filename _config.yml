@@ -25,7 +25,7 @@ linkedin: https://www.linkedin.com/in/danieljung0121/
 twitter: https://x.com/dqj5182
 
 # Images 
-avatar: https://cv.snu.ac.kr/member/images/shjung2.jpg
+avatar: ./assets/img/profile.jpeg
 favicon: ./assets/img/favicon.ico
 favicon_dark: ./assets/img/favicon.ico
 
