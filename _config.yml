@@ -3,7 +3,7 @@ title: Daniel Sungho Jung
 position: Ph.D. Candidate
 affiliation: Seoul National University
 affiliation_link: https://www.snu.ac.kr/index.html
-affiliation_logo: ./assets/img/snu_logo.svg
+affiliation_logo: /assets/img/snu_logo.svg
 email: dqj5182@snu.edu
 
 # Search Engine Optimization (SEO)
@@ -25,9 +25,9 @@ linkedin: https://www.linkedin.com/in/danieljung0121/
 twitter: https://x.com/dqj5182
 
 # Images 
-avatar: ./assets/img/profile.jpeg
-favicon: ./assets/img/snu_logo.ico
-favicon_dark: ./assets/img/snu_logo.ico
+avatar: /assets/img/profile.jpeg
+favicon: /assets/img/snu_logo.ico
+favicon_dark: /assets/img/snu_logo.ico
 
 # Footnotes
 footnote: Feel free to use my website's source code.
