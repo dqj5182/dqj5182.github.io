@@ -1,15 +1,15 @@
 # Basic Information 
-title: Yaoyao Liu
-position: Assistant Professor
-affiliation: University of Illinois Urbana-Champaign
-affiliation_link: https://www.illinois.edu/
+title: Daniel Sungho Jung
+position: Ph.D. Candidate
+affiliation: Seoul National University
+affiliation_link: https://www.snu.ac.kr/index.html
 affiliation_logo: ./assets/img/illinois.svg
-email: lyy (at) illinois.edu
+email: dqj5182 (at) snu.edu
 
 # Search Engine Optimization (SEO)
-keywords: yaoyao liu, liu yaoyao, yaoyaoliu, liuyaoyao
+keywords: daniel jung, daniel, daniel sungho jung, sungho jung
 canonical: https://yaoyaoliu.web.illinois.edu
-description: Yaoyao Liu is an assistant professor at UIUC. His research lies in meta-learning, incremental learning, and image generation.
+description: Daniel Sungho Jung is a Ph.D. Candidate at SNU. His research lies in 3D human reconstruction and 3D scene reconstruction.
 
 # The option is used to enable the Johns Hopkins template.
 enable_hopkins_logo: true
@@ -19,10 +19,10 @@ enable_last_update: false
 
 # Links
 link_type: icon #text/icon
-google_scholar: https://scholar.google.com/citations?user=Qi2PSmEAAAAJ
-github_link: https://github.com/yaoyao-liu/
-linkedin: https://www.linkedin.com/in/liuyaoyao/
-twitter: https://twitter.com/YaoyaoLiu1/
+google_scholar: https://scholar.google.com/citations?user=NLU-rPkAAAAJ&hl=en
+github_link: https://github.com/dqj5182
+linkedin: https://www.linkedin.com/in/danieljung0121/
+twitter: https://x.com/dqj5182
 
 # Images 
 avatar: https://img.yliu.me/avatar.jpg
