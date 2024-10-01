@@ -5,7 +5,7 @@ main:
     right: true 
 
   - title: "Teaching"
-    url: /teaching/
+    url: ./teaching.html
     
   - title: "Publications"
     url: /publications/
