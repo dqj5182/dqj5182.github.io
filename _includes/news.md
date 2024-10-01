@@ -1,4 +1,4 @@
-<h2">News</h2>
+## News
 
 <ul>
 <li><strong>[Jun. 2024]</strong> One paper about human and object is presented at <a href="https://cvpr.thecvf.com/Conferences/2024">CVPR 2024</a>.</li>
