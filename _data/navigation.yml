@@ -8,7 +8,7 @@ main:
   #   url: /talks/
 
   - title: "Teaching"
-   url: ./teaching.html
+    url: ./teaching.html
 
   - title: "Publications"
     url: /publications/
