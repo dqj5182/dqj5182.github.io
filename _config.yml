@@ -26,8 +26,8 @@ twitter: https://x.com/dqj5182
 
 # Images 
 avatar: ./assets/img/profile.jpeg
-favicon: ./assets/img/favicon.ico
-favicon_dark: ./assets/img/favicon.ico
+favicon: ./assets/img/snu_logo.ico
+favicon_dark: ./assets/img/snu_logo.ico
 
 # Footnotes
 footnote: Feel free to use my website's source code.
