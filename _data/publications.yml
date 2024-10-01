@@ -1,38 +1,37 @@
 main:
 
-  - title: "Joint Reconstruction of 3D Human and Object via Contact-Based Refinement Transformer"
+  - title: Joint Reconstruction of 3D Human and Object via Contact-Based Refinement Transformer
     authors: Hyeongjin Nam*, <strong>Daniel Sungho Jung*</strong>, Gyeongsik Moon, Kyoung Mu Lee (* equal contribution)
     conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024
     pdf: https://openaccess.thecvf.com/content/CVPR2024/papers/Nam_Joint_Reconstruction_of_3D_Human_and_Object_via_Contact-Based_Refinement_CVPR_2024_paper.pdf
     page: https://contho-release.github.io/
+    code: https://github.com/dqj5182/CONTHO_RELEASE
     image: https://img.yliu.me/teaser/imagenet3d.png
 
-  - title: "HDR-GS: Efficient High Dynamic Range Novel View Synthesis at 1000x Speed via Gaussian Splatting"
-    authors: Yuanhao Cai, Zihao Xiao, Yixun Liang, Minghan Qin, Yulun Zhang, Xiaokang Yang, <strong>Yaoyao Liu</strong>, Alan Yuille
-    conference_short: NeurIPS
-    conference: Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
-    pdf: https://arxiv.org/pdf/2405.15125
-    bibtex: https://dblp.org/rec/journals/corr/abs-2405-15125.html?view=bibtex
-    code: https://github.com/caiyuanhao1998/HDR-GS
+  - title: StreamMultiDiffusion: Real-Time Interactive Generation with Region-Based Semantic Control
+    authors: Jaerin Lee, <strong>Daniel Sungho Jung</strong>, Kanggeon Lee, Kyoung Mu Lee
+    conference_short: ArXiv
+    conference: ArXiv 2024
+    pdf: https://arxiv.org/abs/2403.09055
+    page: https://jaerinlee.com/research/streammultidiffusion
+    code: https://github.com/ironjr/StreamMultiDiffusion
     image: https://img.yliu.me/teaser/hdr-gs.png
+    notes: 500+ GitHub Stars
 
-  - title: "iNeMo: Incremental Neural Mesh Models for Robust Class-Incremental Learning"
-    authors: Tom Fischer, <strong>Yaoyao Liu</strong>, Artur Jesslen, Noor Ahmed, Prakhar Kaushik, Angtian Wang, Alan Yuille, Adam Kortylewski, Eddy Ilg
-    conference_short: ECCV
-    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
-    pdf: https://www.cs.jhu.edu/~yyliu/preprints/iNeMo_Incremental_Neural_Mesh_Models_for_Robust_Class-Incremental_Learning.pdf
-    code: https://github.com/Fischer-Tom/iNeMo
-    bibtex: https://bib.yliu.me/ECCV24.txt
+  - title: Extract-and-Adaptation Network for 3D Interacting Hand Mesh Recovery
+    authors: JoonKyu Park*, <strong>Daniel Sungho Jung*</strong>, Gyeongsik Moon*, Kyoung Mu Lee (* equal contribution)
+    conference_short: ICCVW
+    conference: IEEE/CVF International Conference on Computer Vision Workshops 2023
+    pdf: https://openaccess.thecvf.com/content/ICCV2023W/CV4Metaverse/papers/Park_Extract-and-Adaptation_Network_for_3D_Interacting_Hand_Mesh_Recovery_ICCVW_2023_paper.pdf
+    code: https://github.com/jkpark0825/EANet
     image: https://img.yliu.me/teaser/iNeMo.png
+    notes: Oral Presentation
     
-  - title: Generating Images with 3D Annotations Using Diffusion Models
-    authors: Wufei Ma*, Qihao Liu*, Jiahao Wang*, Angtian Wang, Xiaoding Yuan, Yi Zhang, Zihao Xiao, Guofeng Zhang, Beijia Lu, Ruxiao Duan, Yongrui Qi, Adam Kortylewski, <strong>Yaoyao Liu<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Alan Yuille <br>( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding author)
-    conference_short: ICLR
-    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2024.
-    pdf: https://openreview.net/pdf?id=XlkN11Xj6J
-    code: https://github.com/wufeim/DST3D
-    page: https://ccvl.jhu.edu/3D-DST/
-    bibtex: https://bib.yliu.me/arXiv23_1.txt
+  - title: Cyclic Test-Time Adaptation on Monocular Video for 3D Human Mesh Reconstruction
+    authors: Hyeongjin Nam, Daniel Sungho Jung, Yeonguk Oh, Kyoung Mu Lee
+    conference_short: ICCV
+    conference: IEEE/CVF International Conference on Computer Vision 2023
+    pdf: https://openaccess.thecvf.com/content/ICCV2023/papers/Nam_Cyclic_Test-Time_Adaptation_on_Monocular_Video_for_3D_Human_Mesh_ICCV_2023_paper.pdf
+    code: https://github.com/hygenie1228/CycleAdapt_RELEASE
     image: https://img.yliu.me/teaser/dst.png
-    notes: Spotlight
