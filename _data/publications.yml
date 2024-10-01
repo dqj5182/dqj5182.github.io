@@ -1,6 +1,6 @@
 main:
 
-  - title: Joint Reconstruction of 3D Human and Object via Contact-Based Refinement Transformer
+  - title: "Joint Reconstruction of 3D Human and Object via Contact-Based Refinement Transformer"
     authors: Hyeongjin Nam*, <strong>Daniel Sungho Jung*</strong>, Gyeongsik Moon, Kyoung Mu Lee (* equal contribution)
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024
@@ -9,7 +9,7 @@ main:
     code: https://github.com/dqj5182/CONTHO_RELEASE
     image: https://img.yliu.me/teaser/imagenet3d.png
 
-  - title: StreamMultiDiffusion: Real-Time Interactive Generation with Region-Based Semantic Control
+  - title: "StreamMultiDiffusion: Real-Time Interactive Generation with Region-Based Semantic Control"
     authors: Jaerin Lee, <strong>Daniel Sungho Jung</strong>, Kanggeon Lee, Kyoung Mu Lee
     conference_short: ArXiv
     conference: ArXiv 2024
@@ -19,7 +19,7 @@ main:
     image: https://img.yliu.me/teaser/hdr-gs.png
     notes: 500+ GitHub Stars
 
-  - title: Extract-and-Adaptation Network for 3D Interacting Hand Mesh Recovery
+  - title: "Extract-and-Adaptation Network for 3D Interacting Hand Mesh Recovery"
     authors: JoonKyu Park*, <strong>Daniel Sungho Jung*</strong>, Gyeongsik Moon*, Kyoung Mu Lee (* equal contribution)
     conference_short: ICCVW
     conference: IEEE/CVF International Conference on Computer Vision Workshops 2023
@@ -28,7 +28,7 @@ main:
     image: https://img.yliu.me/teaser/iNeMo.png
     notes: Oral Presentation
     
-  - title: Cyclic Test-Time Adaptation on Monocular Video for 3D Human Mesh Reconstruction
+  - title: "Cyclic Test-Time Adaptation on Monocular Video for 3D Human Mesh Reconstruction"
     authors: Hyeongjin Nam, Daniel Sungho Jung, Yeonguk Oh, Kyoung Mu Lee
     conference_short: ICCV
     conference: IEEE/CVF International Conference on Computer Vision 2023
