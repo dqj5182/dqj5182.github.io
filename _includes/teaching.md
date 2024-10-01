@@ -4,15 +4,9 @@
 
 <ul>
   <li>
-    Head Teaching Assistant, <a href="https://cms.sic.saarland/hlcvss22/">High-Level Computer Vision</a> at <a href="https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/teaching/courses-1">Max Planck Institutes</a>, 2022
+    Head Teaching Assistant, <a href="https://sites.google.com/snu.ac.kr/jkim/home?authuser=0">Introduction to Robotics</a> at <a href="https://www.snu.ac.kr/index.html">Seoul National University</a>, 2024
   </li>
   <li>
-    Student Mentor, <a href="https://sites.google.com/view/cvpr-academy/">CVPR Academy</a> at <a href="https://cvpr2022.thecvf.com/">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</a>, 2022
-  </li>
-  <li>
-    Teaching Assistant, <a href="https://cms.sic.saarland/hlcvss21/">High-Level Computer Vision</a> at <a href="https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/teaching/courses-1">Max Planck Institute</a>, 2021
-  </li>
-  <li>
-    Teaching Assistant, <a href="">Digital Image Processing</a> at <a href="http://www.tju.edu.cn/english/index.htm/">Tianjin University</a>, 2017
+    Teaching Assistant, <a href="https://bulletins.psu.edu/university-course-descriptions/undergraduate/econ/">Introductory Microeconomic Analysis and Policy</a> at <a href="https://www.psu.edu/">The Pennsylvania State University)</a>, 2018
   </li>
 </ul>
