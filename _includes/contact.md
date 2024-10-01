@@ -1,6 +1,6 @@
 <h2 style="margin: 60px 0px 10px;">Contact</h2>
 
-<p><strong>Address:</strong> <a href="https://maps.app.goo.gl/hEUrRmFreoEqqqw3A">Bldg. 133, 1 Gwanak-ro, Gwanak-gu, Seoul, Republic of Korea 08826</a>
+<p><strong>Address:</strong> <a href="https://maps.app.goo.gl/hEUrRmFreoEqqqw3A">Bldg 133, 1 Gwanak-ro, Gwanak-gu, Seoul, Republic of Korea 08826</a>
 <br />
 <strong>Office Location:</strong> Room 508 
 <br />
