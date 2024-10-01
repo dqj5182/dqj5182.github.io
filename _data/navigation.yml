@@ -4,11 +4,11 @@ main:
     url: /services/
     right: true 
 
-  - title: "Talks"
-    url: /talks/
+  # - title: "Talks"
+  #   url: /talks/
 
-  #- title: "Teaching"
-  #  url: ./teaching.html
+  - title: "Teaching"
+   url: ./teaching.html
 
   - title: "Publications"
     url: /publications/
