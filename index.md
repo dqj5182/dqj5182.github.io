@@ -6,13 +6,14 @@ layout: homepage
 
 <h2 style="margin: 80px 0px 10px;"></h2>
 
-I am an Assistant Professor in the [School of Information Sciences](https://ischool.illinois.edu/) at the [University of Illinois Urbana-Champaign](https://www.illinois.edu/).
+I am a third-year Ph.D candidate at [SNU Computer Vision Lab](https://cv.snu.ac.kr/) advised by [Prof. Kyoung Mu Lee](https://cv.snu.ac.kr/index.php/~kmlee/) (Editor in Cheif of [TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)). Before joining [SNU](https://en.snu.ac.kr/), I finished my undergradute degree at [Penn State](https://www.psu.edu/) and had a wonderful experience at [KAIST Vision & Learning Lab](https://vllab.kaist.ac.kr/) with [Prof. Seunghoon Hong](https://maga33.github.io/). Also, I worked closely with [Prof. Dongwon Lee](https://ist.psu.edu/directory/dul13) from [The PIKE Group](https://pike.psu.edu/dongwon/) at [Penn State](https://www.psu.edu/) under collaboration with [Dr. Hye Joon Park](https://www.smeal.psu.edu/management/images/hye-joon-park.jpg/view). (Fun fact: I am [Euler](https://dlab.epfl.ch/wikispeedia/wpcd/wp/l/Leonhard_Euler.htm)'s 14th-generation acamedic descendant according to [MGP](https://www.mathgenealogy.org/index.php)!)
 
-My research lies at the intersection of **computer vision** and **machine learning** -- with a special focus on building intelligent visual systems that are continual and data-efficient. My research interests include **continual learning**, **few-shot learning**, **semi-supervised learning**, **generative models**, **3D geometry models**, and **medical imaging**.
+## Research Interests
 
-Previously, I completed my Ph.D. in Computer Science at [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/) and my B.S. in Electronic Information Engineering at [Tianjin University](http://www.tju.edu.cn/english/index.htm). I also spent time at [Johns Hopkins University](https://www.jhu.edu), [University of Oxford](https://www.ox.ac.uk/), and [National University of Singapore](https://www.comp.nus.edu.sg/). My biography is [here](./biography/).
+How far away we are to each other, we always wish to be near our loved ones. My great passion lies in connecting us as if we are together in a same place. In order to realize this, it is important to enable "photo-realistic" and "semantically plausible" while "accurate" reconstruction of 3D human and 3D scene around the human. The final goal of my research sits in this dream "connecting people together". Under this mission, my current research interests are as follows:
 
-<strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">I am actively looking for self-motivated Ph.D. students with interests in computer vision and machine learning. If you are interested, please send me an email. You may see details [here](./openings/).</strong>
+- **3D Human Reconstruction:** How to reconstruct human from a monocular RGB image/video?
+- **3D Scene Reconstruction:** How to create 3D scene based solely on vision input?
 
 {% include_relative _includes/news.md %}
 
