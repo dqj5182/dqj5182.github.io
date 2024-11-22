@@ -9,13 +9,13 @@ main:
     code: https://github.com/dqj5182/CONTHO_RELEASE
     image: https://dqj5182.github.io/assets/img/CVPR2024_CONTHO3.png
 
-  - title: "StreamMultiDiffusion: Real-Time Interactive Generation with Region-Based Semantic Control"
+  - title: "SemanticDraw: Towards Real-Time Interactive Content Creation from Image Diffusion Models"
     authors: Jaerin Lee, <strong>Daniel Sungho Jung</strong>, Kanggeon Lee, Kyoung Mu Lee
     conference_short: ArXiv
     conference: ArXiv 2024
     pdf: https://arxiv.org/abs/2403.09055
-    page: https://jaerinlee.com/research/streammultidiffusion
-    code: https://github.com/ironjr/StreamMultiDiffusion
+    page: https://jaerinlee.com/research/semantic-draw
+    code: https://github.com/ironjr/semantic-draw
     image: https://dqj5182.github.io/assets/img/Arxiv2024_SMD.png
     notes: 500+ GitHub Stars
 
