@@ -11,6 +11,8 @@ I am a third-year Ph.D candidate at [SNU Computer Vision Lab](https://cv.snu.ac.
 
 {% include_relative _includes/interests.md %}
 
+{% include_relative _includes/news.md %}
+
 ## Education
 <p>
   <strong>Seoul National University</strong>
@@ -27,7 +29,5 @@ I am a third-year Ph.D candidate at [SNU Computer Vision Lab](https://cv.snu.ac.
   <br>
   Aug 2017 - Dec 2021
 </p>
-
-{% include_relative _includes/news.md %}
 
 {% include_relative _includes/contact.md %}
