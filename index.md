@@ -9,7 +9,7 @@ layout: homepage
 <h2>About me</h2>
 I am a third-year Ph.D candidate at [SNU Computer Vision Lab](https://cv.snu.ac.kr/) advised by [Prof. Kyoung Mu Lee](https://cv.snu.ac.kr/index.php/~kmlee/) (Editor in Cheif of [TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)). Before joining [SNU](https://en.snu.ac.kr/), I finished my undergradute degree at [Penn State](https://www.psu.edu/) and had a wonderful experience at [KAIST Vision & Learning Lab](https://vllab.kaist.ac.kr/) with [Prof. Seunghoon Hong](https://maga33.github.io/). Also, I worked closely with [Prof. Dongwon Lee](https://ist.psu.edu/directory/dul13) from [The PIKE Group](https://pike.psu.edu/dongwon/) at [Penn State](https://www.psu.edu/) under collaboration with [Dr. Hye Joon Park](https://www.smeal.psu.edu/management/images/hye-joon-park.jpg/view).
 
-## Research Interests
+<h2>Research Interests</h2>
 
 How far away we are to each other, we always wish to be near our loved ones. My great passion lies in connecting us as if we are together in a same place. In order to realize this, it is important to enable "photo realistic" and "semantically plausible" while "accurate" reconstruction of 3D human and 3D scene around the human. The final goal of my research sits in this dream "connecting people together". Under this mission, my current research interests are as follows:
 
@@ -17,7 +17,7 @@ How far away we are to each other, we always wish to be near our loved ones. My 
 - **3D Scene Reconstruction:** How to create 3D scene based solely on vision input?
 
 
-## News
+<h2>News</h2>
 
 <ul>
 <li><strong>[Jun. 2024]</strong> One paper about human and object is presented at <a href="https://cvpr.thecvf.com/Conferences/2024">CVPR 2024</a>.</li>
@@ -28,7 +28,7 @@ How far away we are to each other, we always wish to be near our loved ones. My 
 </ul>
 
 
-## Education
+<h2>Education</h2>
 <p>
   <strong>Seoul National University</strong>
   <br>
