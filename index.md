@@ -45,4 +45,13 @@ How far away we are to each other, we always wish to be near our loved ones. My 
   Aug 2017 - Dec 2021
 </p>
 
-{% include_relative _includes/contact.md %}
+
+## Contact
+
+<p><strong>Address:</strong> <a href="https://maps.app.goo.gl/hEUrRmFreoEqqqw3A">Bldg 133, 1 Gwanak ro, Gwanak gu, Seoul, Republic of Korea 08826</a>
+<br />
+<strong>Office Location:</strong> Room 508 
+<br />
+<strong>Email:</strong> <email>dqj5182 (at) snu.ac.kr</email>
+<br />
+<strong>Phone:</strong> (+82) 02 880 6490</p>
