@@ -10,6 +10,26 @@ I am a third-year Ph.D candidate at [SNU Computer Vision Lab](https://cv.snu.ac.
 
 {% include_relative _includes/interests.md %}
 
+## Education
+<p>
+  <strong>Seoul National University</strong>
+  <br>
+  Ph.D. in Artificial Intelligence (Advisor: Prof. Kyoung Mu Lee)
+  <br>
+  Mar 2022 - Present
+</p>
+
+<p>
+  <strong>The Pennsylvania State Univeristy</strong>
+  <br>
+  B.S. in Statistical Modeling Data Science
+  <br>
+  Aug 2017 - Dec 2021
+</p>
+
+- **3D Scene Reconstruction:** How to create 3D scene based solely on vision input?
+
+
 {% include_relative _includes/news.md %}
 
 {% include_relative _includes/contact.md %}
