@@ -27,9 +27,6 @@ I am a third-year Ph.D candidate at [SNU Computer Vision Lab](https://cv.snu.ac.
   Aug 2017 - Dec 2021
 </p>
 
-- **3D Scene Reconstruction:** How to create 3D scene based solely on vision input?
-
-
 {% include_relative _includes/news.md %}
 
 {% include_relative _includes/contact.md %}
