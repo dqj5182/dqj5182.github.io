@@ -53,7 +53,7 @@ CVPR 2024
 </p>
 
 <p>
-<img src="https://dqj5182.github.io/assets/img/Arxiv2024_SMD.png" alt="TC_CLIP_framework" style="width: 300px; height: auto; float: left; margin-right: 10px;">
+<img src="https://dqj5182.github.io/assets/img/Arxiv2024_SMD.png" alt="TC_CLIP_framework" style="width: 400px; height: auto; display: block; margin: 0;">
 <strong>SemanticDraw: Towards Real-Time Interactive Content Creation from Image Diffusion Models</strong>
 <br>
 Jaerin Lee, <strong>Daniel Sungho Jung</strong>, Kanggeon Lee, Kyoung Mu Lee
