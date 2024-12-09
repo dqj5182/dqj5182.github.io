@@ -61,6 +61,8 @@ Hyeongjin Nam*, <strong>Daniel Sungho Jung*</strong>, Gyeongsik Moon, Kyoung Mu 
 Jaerin Lee, <strong>Daniel Sungho Jung</strong>, Kanggeon Lee, Kyoung Mu Lee
 <br>
 <strong>ArXiv 2024</strong>
+<br>
+<a href="https://jaerinlee.com/research/semantic-draw">project page</a> / <a href="https://arxiv.org/pdf/2403.09055">paper</a> / <a href="https://arxiv.org/abs/2403.09055">arxiv</a> / <a href="https://github.com/ironjr/semantic-draw">code</a>
 </p>
 
 <p>
@@ -70,6 +72,8 @@ Jaerin Lee, <strong>Daniel Sungho Jung</strong>, Kanggeon Lee, Kyoung Mu Lee
 JoonKyu Park*, <strong>Daniel Sungho Jung*</strong>, Gyeongsik Moon*, Kyoung Mu Lee (* equal contribution)
 <br>
 <strong>International Conference on Computer Vision Workshops (ICCVW), 2023</strong>
+<br>
+<a href="https://openaccess.thecvf.com/content/ICCV2023W/CV4Metaverse/papers/Park_Extract-and-Adaptation_Network_for_3D_Interacting_Hand_Mesh_Recovery_ICCVW_2023_paper.pdf">paper</a> / <a href="https://arxiv.org/abs/2309.01943">arxiv</a> / <a href="https://github.com/jkpark0825/EANet">code</a>
 </p>
 
 <p>
@@ -79,6 +83,8 @@ JoonKyu Park*, <strong>Daniel Sungho Jung*</strong>, Gyeongsik Moon*, Kyoung Mu 
 Hyeongjin Nam, <strong>Daniel Sungho Jung</strong>, Yeonguk Oh, Kyoung Mu Lee
 <br>
 <strong>International Conference on Computer Vision (ICCV), 2023</strong>
+<br>
+<a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Nam_Cyclic_Test-Time_Adaptation_on_Monocular_Video_for_3D_Human_Mesh_ICCV_2023_paper.pdf">paper</a> / <a href="https://arxiv.org/abs/2308.06554">arxiv</a> / <a href="https://github.com/hygenie1228/CycleAdapt_RELEASE">code</a>
 </p>
 
 <p>
@@ -88,6 +94,8 @@ Hyeongjin Nam, <strong>Daniel Sungho Jung</strong>, Yeonguk Oh, Kyoung Mu Lee
 Xianghui Xie, Xi Wang, Nikos Athanasiou, Bharat Lal Bhatnagar, Chun-Hao P. Huang, Kaichun Mo, Hao Chen, Xia Jia, Zerui Zhang, Liangxian Cui, Xiao Lin, Bingqiao Qian, Jie Xiao, Wenfei Yang, Hyeongjin Nam, <strong>Daniel Sungho Jung</strong>, Kihoon Kim, Kyoung Mu Lee, Otmar Hilliges, Gerard Pons-Moll
 <br>
 <strong>Computer Vision and Pattern Recognition Workshops (CVPRW) 2023</strong>
+<br>
+<a href="https://rhobin-challenge.github.io/cvpr23/index.html">project page</a> / <a href="https://arxiv.org/pdf/2401.04143">paper</a> / <a href="https://arxiv.org/abs/2401.04143">arxiv</a>
 </p>
 
 
