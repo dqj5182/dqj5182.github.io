@@ -46,11 +46,11 @@ I am a third-year Ph.D candidate at [SNU Computer Vision Lab](https://cv.snu.ac.
 <p>
 <strong>Head Teaching Assistant</strong>
 <br>
-<a href="https://sites.google.com/snu.ac.kr/jkim/home?authuser=0">Introduction to Robotics</a> by <a href="https://ece.snu.ac.kr/en/research-faculty/faculty/fulltime?md=view&profid=p896">Prof. Jinsoo Kim</a> at <a href="https://www.snu.ac.kr/index.html">Seoul National University</a>, 2024
+<a href="https://sites.google.com/snu.ac.kr/jkim/home?authuser=0">Introduction to Robotics</autocolor></a> by <a href="https://ece.snu.ac.kr/en/research-faculty/faculty/fulltime?md=view&profid=p896">Prof. Jinsoo Kim</autocolor></a> at <a href="https://www.snu.ac.kr/index.html">Seoul National University</autocolor></a>, 2024
 <br>
 <strong>Teaching Assistant</strong>
 <br>
-<a href="https://bulletins.psu.edu/university-course-descriptions/undergraduate/econ/">Introductory Microeconomic Analysis and Policy</a> by <a href="https://econ.la.psu.edu/people/alb43/">Prof. Austin Boyle</a> at <a href="https://www.psu.edu/">The Pennsylvania State University</a>, 2018
+<a href="https://bulletins.psu.edu/university-course-descriptions/undergraduate/econ/">Introductory Microeconomic Analysis and Policy</autocolor></a> by <a href="https://econ.la.psu.edu/people/alb43/">Prof. Austin Boyle</autocolor></a> at <a href="https://www.psu.edu/">The Pennsylvania State University</autocolor></a>, 2018
 </p>
 
 
