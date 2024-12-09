@@ -50,6 +50,8 @@ I am a third-year Ph.D candidate at [SNU Computer Vision Lab](https://cv.snu.ac.
 Hyeongjin Nam*, <strong>Daniel Sungho Jung*</strong>, Gyeongsik Moon, Kyoung Mu Lee (* equal contribution)
 <br>
 <strong>Computer Vision and Pattern Recognition (CVPR), 2024  </strong>
+<br>
+<a href="https://contho-release.github.io/">project page</a> / <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Nam_Joint_Reconstruction_of_3D_Human_and_Object_via_Contact-Based_Refinement_CVPR_2024_paper.pdf">paper</a> / <a href="https://arxiv.org/abs/2404.04819">arxiv</a> / <a href="https://github.com/dqj5182/CONTHO_RELEASE">code</a>
 </p>
 
 <p>
