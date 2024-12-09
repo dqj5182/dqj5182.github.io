@@ -49,7 +49,7 @@ I am a third-year Ph.D candidate at [SNU Computer Vision Lab](https://cv.snu.ac.
 <br>
 Hyeongjin Nam*, <strong>Daniel Sungho Jung*</strong>, Gyeongsik Moon, Kyoung Mu Lee (* equal contribution)
 <br>
-<strong>CVPR 2024</strong>
+<strong>Computer Vision and Pattern Recognition (CVPR), 2024  </strong>
 </p>
 
 <p>
@@ -67,7 +67,7 @@ Jaerin Lee, <strong>Daniel Sungho Jung</strong>, Kanggeon Lee, Kyoung Mu Lee
 <br>
 JoonKyu Park*, <strong>Daniel Sungho Jung*</strong>, Gyeongsik Moon*, Kyoung Mu Lee (* equal contribution)
 <br>
-<strong>ICCVW 2023</strong>
+<strong>International Conference on Computer Vision Workshops (ICCVW), 2023</strong>
 </p>
 
 <p>
@@ -76,7 +76,7 @@ JoonKyu Park*, <strong>Daniel Sungho Jung*</strong>, Gyeongsik Moon*, Kyoung Mu 
 <br>
 Hyeongjin Nam, <strong>Daniel Sungho Jung</strong>, Yeonguk Oh, Kyoung Mu Lee
 <br>
-<strong>ICCV 2023</strong>
+<strong>International Conference on Computer Vision (ICCV), 2023</strong>
 </p>
 
 <p>
@@ -85,7 +85,7 @@ Hyeongjin Nam, <strong>Daniel Sungho Jung</strong>, Yeonguk Oh, Kyoung Mu Lee
 <br>
 Xianghui Xie, Xi Wang, Nikos Athanasiou, Bharat Lal Bhatnagar, Chun-Hao P. Huang, Kaichun Mo, Hao Chen, Xia Jia, Zerui Zhang, Liangxian Cui, Xiao Lin, Bingqiao Qian, Jie Xiao, Wenfei Yang, Hyeongjin Nam, <strong>Daniel Sungho Jung</strong>, Kihoon Kim, Kyoung Mu Lee, Otmar Hilliges, Gerard Pons-Moll
 <br>
-<strong>CVPRW 2023</strong>
+<strong>Computer Vision and Pattern Recognition Workshops (CVPRW) 2023</strong>
 </p>
 
 
