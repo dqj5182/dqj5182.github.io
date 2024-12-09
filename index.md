@@ -58,7 +58,7 @@ CVPR 2024
 Jaerin Lee, <strong>Daniel Sungho Jung</strong>, Kanggeon Lee, Kyoung Mu Lee
 <br>
 ArXiv 2024
-<img src="https://dqj5182.github.io/assets/img/Arxiv2024_SMD.png" alt="TC_CLIP_framework" style="width: 400px; height: auto; display: block; margin: 0;">
+<img src="https://dqj5182.github.io/assets/img/Arxiv2024_SMD.png" alt="TC_CLIP_framework" style="width: 300px; height: auto; float: left; margin-right: 10px;">
 </p>
 
 <p>
