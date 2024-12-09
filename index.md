@@ -21,23 +21,6 @@ I am a third-year Ph.D candidate at [SNU Computer Vision Lab](https://cv.snu.ac.
 </ul>
 
 
-<h2>Education</h2>
-<p>
-  <strong>Seoul National University</strong>
-  <br>
-  Ph.D. in Artificial Intelligence (Advisor: Prof. Kyoung Mu Lee)
-  <br>
-  Mar 2022 - Present
-</p>
-
-<p>
-  <strong>The Pennsylvania State Univeristy</strong>
-  <br>
-  B.S. in Statistical Modeling Data Science
-  <br>
-  Aug 2017 - Dec 2021
-</p>
-
 
 
 
@@ -99,6 +82,24 @@ Xianghui Xie, Xi Wang, Nikos Athanasiou, Bharat Lal Bhatnagar, Chun-Hao P. Huang
 </p>
 
 
+
+
+<h2>Education</h2>
+<p>
+  <strong>Seoul National University</strong>
+  <br>
+  Ph.D. in Artificial Intelligence (Advisor: Prof. Kyoung Mu Lee)
+  <br>
+  Mar 2022 - Present
+</p>
+
+<p>
+  <strong>The Pennsylvania State Univeristy</strong>
+  <br>
+  B.S. in Statistical Modeling Data Science
+  <br>
+  Aug 2017 - Dec 2021
+</p>
 
 
 
