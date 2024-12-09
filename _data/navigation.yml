@@ -4,12 +4,13 @@ main:
   #   url: /services/
   #   right: true 
 
-  - title: "Teaching"
-    url: /teaching/
-    right: true 
+  # - title: "Teaching"
+  #   url: /teaching/
+  #   right: true 
     
   - title: "Publications"
     url: /publications/
+    right: true 
 
   - title: "Home"
     url: /
