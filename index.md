@@ -39,6 +39,10 @@ I am a third-year Ph.D candidate at [SNU Computer Vision Lab](https://cv.snu.ac.
 </p>
 
 
+
+
+
+<h2>Publications</h2>
 <p>
 <strong>Joint Reconstruction of 3D Human and Object via Contact-Based Refinement Transformer</strong>
 <br>
