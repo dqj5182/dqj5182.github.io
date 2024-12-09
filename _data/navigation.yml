@@ -8,9 +8,9 @@ main:
   #   url: /teaching/
   #   right: true 
     
-  - title: "Publications"
-    url: /publications/
-    right: true 
+  # - title: "Publications"
+  #   url: /publications/
+  #   right: true 
 
   - title: "Home"
     url: /
