@@ -51,15 +51,12 @@ CVPR 2024
 <img src="https://dqj5182.github.io/assets/img/contho_pipeline.png" alt="TC_CLIP_framework">
 </p>
 
-- title: "SemanticDraw: Towards Real-Time Interactive Content Creation from Image Diffusion Models"
-  authors: Jaerin Lee, <strong>Daniel Sungho Jung</strong>, Kanggeon Lee, Kyoung Mu Lee
-  conference_short: ArXiv
-  conference: ArXiv 2024
-  pdf: https://arxiv.org/abs/2403.09055
-  page: https://jaerinlee.com/research/semantic-draw
-  code: https://github.com/ironjr/semantic-draw
-  image: https://dqj5182.github.io/assets/img/Arxiv2024_SMD.png
-  notes: 500+ GitHub Stars
+<strong>SemanticDraw: Towards Real-Time Interactive Content Creation from Image Diffusion Models</strong>
+<br>
+Jaerin Lee, <strong>Daniel Sungho Jung</strong>, Kanggeon Lee, Kyoung Mu Lee
+ArXiv 2024
+<img src="https://dqj5182.github.io/assets/img/Arxiv2024_SMD.png" alt="TC_CLIP_framework">
+</p>
 
 - title: "Extract-and-Adaptation Network for 3D Interacting Hand Mesh Recovery"
   authors: JoonKyu Park*, <strong>Daniel Sungho Jung*</strong>, Gyeongsik Moon*, Kyoung Mu Lee (* equal contribution)
