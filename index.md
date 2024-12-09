@@ -76,7 +76,7 @@ ICCVW 2023
 Hyeongjin Nam, <strong>Daniel Sungho Jung</strong>, Yeonguk Oh, Kyoung Mu Lee
 <br>
 ICCV 2023
-<img src="https://dqj5182.github.io/assets/img/ICCV2023_CycleAdapt2.png" alt="TC_CLIP_framework" style="max-width: 100%; height: auto; width: 300px;">
+<img src="https://dqj5182.github.io/assets/img/ICCV2023_CycleAdapt2.png" alt="TC_CLIP_framework" style="max-width: 100%; height: auto; width: 600px;">
 </p>
 
 <p>
