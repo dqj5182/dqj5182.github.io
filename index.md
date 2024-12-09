@@ -133,6 +133,23 @@ Xianghui Xie, Xi Wang, Nikos Athanasiou, Bharat Lal Bhatnagar, Chun-Hao P. Huang
 
 
 
+<h2>Honors</h2>
+
+<p>
+The 1st Place Winner for Joint Reconstruction of Human and Object Track, The RHOBIN
+workshop in conjunction with CVPR 2023
+<br>
+Artificial Intelligence Graduate School Program Fellowship, IITP in the Government of
+Korea (Ministry of Science and ICT) 
+<br>
+Penn State Dean’s List, Office of Dean at The Pennsylvania State University
+<br>
+IEEE Member of the Month Award, Penn State IEEE Student Chapter
+<br>
+HackPSU Social Justice Award, College of Engineering, The Pennsylvania State University
+</p>
+
+
 
 <h2>Services</h2>
 
