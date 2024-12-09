@@ -55,7 +55,7 @@ CVPR 2024
 <br>
 Jaerin Lee, <strong>Daniel Sungho Jung</strong>, Kanggeon Lee, Kyoung Mu Lee
 ArXiv 2024
-<img src="https://dqj5182.github.io/assets/img/Arxiv2024_SMD.png" alt="TC_CLIP_framework">
+<img src="https://dqj5182.github.io/assets/img/semantic_draw_pipeline.png" alt="TC_CLIP_framework">
 </p>
 
 - title: "Extract-and-Adaptation Network for 3D Interacting Hand Mesh Recovery"
