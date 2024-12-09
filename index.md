@@ -39,15 +39,13 @@ I am a third-year Ph.D candidate at [SNU Computer Vision Lab](https://cv.snu.ac.
 </p>
 
 
-
-- title: "Joint Reconstruction of 3D Human and Object via Contact-Based Refinement Transformer"
-    authors: Hyeongjin Nam*, <strong>Daniel Sungho Jung*</strong>, Gyeongsik Moon, Kyoung Mu Lee (* equal contribution)
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024
-    pdf: https://openaccess.thecvf.com/content/CVPR2024/papers/Nam_Joint_Reconstruction_of_3D_Human_and_Object_via_Contact-Based_Refinement_CVPR_2024_paper.pdf
-    page: https://contho-release.github.io/
-    code: https://github.com/dqj5182/CONTHO_RELEASE
-    image: https://dqj5182.github.io/assets/img/CVPR2024_CONTHO3.png
+<p>
+<strong>Joint Reconstruction of 3D Human and Object via Contact-Based Refinement Transformer</strong>
+<br>
+Hyeongjin Nam*, <strong>Daniel Sungho Jung*</strong>, Gyeongsik Moon, Kyoung Mu Lee (* equal contribution)
+CVPR 2024
+<img src="https://dqj5182.github.io/assets/img/CVPR2024_CONTHO3.png" alt="TC_CLIP_framework">
+</p>
 
 - title: "SemanticDraw: Towards Real-Time Interactive Content Creation from Image Diffusion Models"
   authors: Jaerin Lee, <strong>Daniel Sungho Jung</strong>, Kanggeon Lee, Kyoung Mu Lee
