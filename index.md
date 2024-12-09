@@ -88,7 +88,7 @@ Xianghui Xie, Xi Wang, Nikos Athanasiou, Bharat Lal Bhatnagar, Chun-Hao P. Huang
 <p>
   <strong>SONY Corporation</strong>
   <br>
-  (Incoming) Research Intern
+  (Incoming) Research Intern, Generative AI and Graphics
   <br>
   Apr 2025 - Jul 2025
 </p>
