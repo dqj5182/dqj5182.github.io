@@ -44,7 +44,7 @@ I am a third-year Ph.D candidate at [SNU Computer Vision Lab](https://cv.snu.ac.
 <br>
 Hyeongjin Nam*, <strong>Daniel Sungho Jung*</strong>, Gyeongsik Moon, Kyoung Mu Lee (* equal contribution)
 CVPR 2024
-<img src="https://dqj5182.github.io/assets/img/CVPR2024_CONTHO3.png" alt="TC_CLIP_framework">
+<img src="https://dqj5182.github.io/assets/img/contho_pipeline.png" alt="TC_CLIP_framework">
 </p>
 
 - title: "SemanticDraw: Towards Real-Time Interactive Content Creation from Image Diffusion Models"
