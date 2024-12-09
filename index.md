@@ -62,7 +62,7 @@ ArXiv 2024
 </p>
 
 <p>
-<img src="https://dqj5182.github.io/assets/img/ICCVW2023_EANet3.png" alt="TC_CLIP_framework" style="width: 400px; height: auto; display: block; margin: 0;">
+<img src="https://dqj5182.github.io/assets/img/eanet_teaser.png" alt="TC_CLIP_framework" style="width: 400px; height: auto; display: block; margin: 0;">
 <strong>Extract-and-Adaptation Network for 3D Interacting Hand Mesh Recovery</strong>
 <br>
 JoonKyu Park*, <strong>Daniel Sungho Jung*</strong>, Gyeongsik Moon*, Kyoung Mu Lee (* equal contribution)
