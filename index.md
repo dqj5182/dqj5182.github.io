@@ -82,8 +82,9 @@ ICCV 2023
 <strong>RHOBIN Challenge: Reconstruction of Human Object Interaction</strong>
 <br>
 Xianghui Xie, Xi Wang, Nikos Athanasiou, Bharat Lal Bhatnagar, Chun-Hao P. Huang, Kaichun Mo, Hao Chen, Xia Jia, Zerui Zhang, Liangxian Cui, Xiao Lin, Bingqiao Qian, Jie Xiao, Wenfei Yang, Hyeongjin Nam, <strong>Daniel Sungho Jung</strong>, Kihoon Kim, Kyoung Mu Lee, Otmar Hilliges, Gerard Pons-Moll
+<br>
 CVPRW 2023
-<img src="[https://dqj5182.github.io/assets/img/ICCV2023_CycleAdapt2.png](https://dqj5182.github.io/assets/img/rhobin_tech3.png)" alt="TC_CLIP_framework">
+<img src="https://dqj5182.github.io/assets/img/rhobin_tech3.png" alt="TC_CLIP_framework">
 </p>
 
 
