@@ -88,7 +88,7 @@ Hyeongjin Nam, <strong>Daniel Sungho Jung</strong>, Yeonguk Oh, Kyoung Mu Lee
 </p>
 
 <p>
-<img src="https://dqj5182.github.io/assets/img/rhobin_challenge_pipeline.png" alt="TC_CLIP_framework" style="width: 300px; height: auto; display: block; margin: 0;">
+<img src="https://dqj5182.github.io/assets/img/rhobin_challenge_pipeline.png" alt="TC_CLIP_framework" style="width: 600px; height: auto; display: block; margin: 0;">
 <strong>RHOBIN Challenge: Reconstruction of Human Object Interaction</strong>
 <br>
 Xianghui Xie, Xi Wang, Nikos Athanasiou, Bharat Lal Bhatnagar, Chun-Hao P. Huang, Kaichun Mo, Hao Chen, Xia Jia, Zerui Zhang, Liangxian Cui, Xiao Lin, Bingqiao Qian, Jie Xiao, Wenfei Yang, Hyeongjin Nam, <strong>Daniel Sungho Jung</strong>, Kihoon Kim, Kyoung Mu Lee, Otmar Hilliges, Gerard Pons-Moll
