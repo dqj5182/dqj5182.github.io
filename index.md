@@ -47,6 +47,7 @@ I am a third-year Ph.D candidate at [SNU Computer Vision Lab](https://cv.snu.ac.
 <strong>Joint Reconstruction of 3D Human and Object via Contact-Based Refinement Transformer</strong>
 <br>
 Hyeongjin Nam*, <strong>Daniel Sungho Jung*</strong>, Gyeongsik Moon, Kyoung Mu Lee (* equal contribution)
+<br>
 CVPR 2024
 <img src="https://dqj5182.github.io/assets/img/contho_pipeline.png" alt="TC_CLIP_framework">
 </p>
