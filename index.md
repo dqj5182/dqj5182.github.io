@@ -84,7 +84,7 @@ Xianghui Xie, Xi Wang, Nikos Athanasiou, Bharat Lal Bhatnagar, Chun-Hao P. Huang
 
 
 
-<h2>Experiences</h2>
+<h2>Work Experience</h2>
 <p>
   <strong>SONY Corporation</strong>
   <br>
