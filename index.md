@@ -58,7 +58,7 @@ CVPR 2024
 Jaerin Lee, <strong>Daniel Sungho Jung</strong>, Kanggeon Lee, Kyoung Mu Lee
 <br>
 ArXiv 2024
-<img src="https://dqj5182.github.io/assets/img/semantic_draw_pipeline.png" alt="TC_CLIP_framework">
+<img src="https://dqj5182.github.io/assets/img/semantic_draw_pipeline.png" alt="TC_CLIP_framework" style="width: 600px; height: auto; display: block; margin: 0;">
 </p>
 
 <p>
@@ -67,7 +67,7 @@ ArXiv 2024
 JoonKyu Park*, <strong>Daniel Sungho Jung*</strong>, Gyeongsik Moon*, Kyoung Mu Lee (* equal contribution)
 <br>
 ICCVW 2023
-<img src="https://dqj5182.github.io/assets/img/ICCVW2023_EANet3.png" alt="TC_CLIP_framework">
+<img src="https://dqj5182.github.io/assets/img/ICCVW2023_EANet3.png" alt="TC_CLIP_framework" style="width: 600px; height: auto; display: block; margin: 0;">
 </p>
 
 <p>
@@ -76,7 +76,7 @@ ICCVW 2023
 Hyeongjin Nam, <strong>Daniel Sungho Jung</strong>, Yeonguk Oh, Kyoung Mu Lee
 <br>
 ICCV 2023
-<img src="https://dqj5182.github.io/assets/img/ICCV2023_CycleAdapt2.png" alt="TC_CLIP_framework" style="max-width: 100%; height: auto; width: 600px;">
+<img src="https://dqj5182.github.io/assets/img/ICCV2023_CycleAdapt2.png" style="width: 600px; height: auto; display: block; margin: 0;">
 </p>
 
 <p>
