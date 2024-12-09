@@ -49,7 +49,7 @@ I am a third-year Ph.D candidate at [SNU Computer Vision Lab](https://cv.snu.ac.
 <br>
 Hyeongjin Nam*, <strong>Daniel Sungho Jung*</strong>, Gyeongsik Moon, Kyoung Mu Lee (* equal contribution)
 <br>
-CVPR 2024
+<strong>CVPR 2024</strong>
 </p>
 
 <p>
@@ -58,7 +58,7 @@ CVPR 2024
 <br>
 Jaerin Lee, <strong>Daniel Sungho Jung</strong>, Kanggeon Lee, Kyoung Mu Lee
 <br>
-ArXiv 2024
+<strong>ArXiv 2024</strong>
 </p>
 
 <p>
@@ -67,7 +67,7 @@ ArXiv 2024
 <br>
 JoonKyu Park*, <strong>Daniel Sungho Jung*</strong>, Gyeongsik Moon*, Kyoung Mu Lee (* equal contribution)
 <br>
-ICCVW 2023
+<strong>ICCVW 2023</strong>
 </p>
 
 <p>
@@ -76,7 +76,7 @@ ICCVW 2023
 <br>
 Hyeongjin Nam, <strong>Daniel Sungho Jung</strong>, Yeonguk Oh, Kyoung Mu Lee
 <br>
-ICCV 2023
+<strong>ICCV 2023</strong>
 </p>
 
 <p>
@@ -85,7 +85,7 @@ ICCV 2023
 <br>
 Xianghui Xie, Xi Wang, Nikos Athanasiou, Bharat Lal Bhatnagar, Chun-Hao P. Huang, Kaichun Mo, Hao Chen, Xia Jia, Zerui Zhang, Liangxian Cui, Xiao Lin, Bingqiao Qian, Jie Xiao, Wenfei Yang, Hyeongjin Nam, <strong>Daniel Sungho Jung</strong>, Kihoon Kim, Kyoung Mu Lee, Otmar Hilliges, Gerard Pons-Moll
 <br>
-CVPRW 2023
+<strong>CVPRW 2023</strong>
 </p>
 
 
