@@ -47,11 +47,13 @@ I am a third-year Ph.D candidate at [SNU Computer Vision Lab](https://cv.snu.ac.
 <strong>Head Teaching Assistant</strong>
 <br>
 <a href="https://sites.google.com/snu.ac.kr/jkim/home?authuser=0">Introduction to Robotics</autocolor></a>, <a href="https://www.snu.ac.kr/index.html">Seoul National University</autocolor></a>, 2024
+<br>
 <a href="https://ece.snu.ac.kr/en/research-faculty/faculty/fulltime?md=view&profid=p896">Prof. Jinsoo Kim</autocolor></a>
 <br>
 <strong>Teaching Assistant</strong>
 <br>
 <a href="https://bulletins.psu.edu/university-course-descriptions/undergraduate/econ/">Introductory Microeconomic Analysis and Policy</autocolor></a>, <a href="https://www.psu.edu/">The Pennsylvania State University</autocolor></a>, 2018
+<br>
 <a href="https://econ.la.psu.edu/people/alb43/">Prof. Austin Boyle</autocolor></a> 
 </p>
 
