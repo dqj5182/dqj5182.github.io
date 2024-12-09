@@ -44,48 +44,48 @@ I am a third-year Ph.D candidate at [SNU Computer Vision Lab](https://cv.snu.ac.
 
 <h2>Publications</h2>
 <p>
+<img src="https://dqj5182.github.io/assets/img/contho_pipeline.png" alt="TC_CLIP_framework">
 <strong>Joint Reconstruction of 3D Human and Object via Contact-Based Refinement Transformer</strong>
 <br>
 Hyeongjin Nam*, <strong>Daniel Sungho Jung*</strong>, Gyeongsik Moon, Kyoung Mu Lee (* equal contribution)
 <br>
 CVPR 2024
-<img src="https://dqj5182.github.io/assets/img/contho_pipeline.png" alt="TC_CLIP_framework">
 </p>
 
 <p>
+<img src="https://dqj5182.github.io/assets/img/Arxiv2024_SMD.png" alt="TC_CLIP_framework" style="width: 300px; height: auto; float: left; margin-right: 10px;">
 <strong>SemanticDraw: Towards Real-Time Interactive Content Creation from Image Diffusion Models</strong>
 <br>
 Jaerin Lee, <strong>Daniel Sungho Jung</strong>, Kanggeon Lee, Kyoung Mu Lee
 <br>
 ArXiv 2024
-<img src="https://dqj5182.github.io/assets/img/Arxiv2024_SMD.png" alt="TC_CLIP_framework" style="width: 300px; height: auto; float: left; margin-right: 10px;">
 </p>
 
 <p>
+<img src="https://dqj5182.github.io/assets/img/ICCVW2023_EANet3.png" alt="TC_CLIP_framework" style="width: 400px; height: auto; display: block; margin: 0;">
 <strong>Extract-and-Adaptation Network for 3D Interacting Hand Mesh Recovery</strong>
 <br>
 JoonKyu Park*, <strong>Daniel Sungho Jung*</strong>, Gyeongsik Moon*, Kyoung Mu Lee (* equal contribution)
 <br>
 ICCVW 2023
-<img src="https://dqj5182.github.io/assets/img/ICCVW2023_EANet3.png" alt="TC_CLIP_framework" style="width: 400px; height: auto; display: block; margin: 0;">
 </p>
 
 <p>
+<img src="https://dqj5182.github.io/assets/img/ICCV2023_CycleAdapt2.png" style="width: 400px; height: auto; display: block; margin: 0;">
 <strong>Cyclic Test-Time Adaptation on Monocular Video for 3D Human Mesh Reconstruction</strong>
 <br>
 Hyeongjin Nam, <strong>Daniel Sungho Jung</strong>, Yeonguk Oh, Kyoung Mu Lee
 <br>
 ICCV 2023
-<img src="https://dqj5182.github.io/assets/img/ICCV2023_CycleAdapt2.png" style="width: 400px; height: auto; display: block; margin: 0;">
 </p>
 
 <p>
+<img src="https://dqj5182.github.io/assets/img/rhobin_challenge_pipeline.png" alt="TC_CLIP_framework" style="width: 400px; height: auto; display: block; margin: 0;">
 <strong>RHOBIN Challenge: Reconstruction of Human Object Interaction</strong>
 <br>
 Xianghui Xie, Xi Wang, Nikos Athanasiou, Bharat Lal Bhatnagar, Chun-Hao P. Huang, Kaichun Mo, Hao Chen, Xia Jia, Zerui Zhang, Liangxian Cui, Xiao Lin, Bingqiao Qian, Jie Xiao, Wenfei Yang, Hyeongjin Nam, <strong>Daniel Sungho Jung</strong>, Kihoon Kim, Kyoung Mu Lee, Otmar Hilliges, Gerard Pons-Moll
 <br>
 CVPRW 2023
-<img src="https://dqj5182.github.io/assets/img/rhobin_challenge_pipeline.png" alt="TC_CLIP_framework" style="width: 400px; height: auto; display: block; margin: 0;">
 </p>
 
 
