@@ -71,7 +71,7 @@ ICCVW 2023
 </p>
 
 <p>
-<img src="https://dqj5182.github.io/assets/img/ICCV2023_CycleAdapt2.png" style="width: 400px; height: auto; display: block; margin: 0;">
+<img src="https://dqj5182.github.io/assets/img/cycleadapt_teaser.webp" style="width: 400px; height: auto; display: block; margin: 0;">
 <strong>Cyclic Test-Time Adaptation on Monocular Video for 3D Human Mesh Reconstruction</strong>
 <br>
 Hyeongjin Nam, <strong>Daniel Sungho Jung</strong>, Yeonguk Oh, Kyoung Mu Lee
