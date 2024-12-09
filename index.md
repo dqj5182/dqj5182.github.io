@@ -40,6 +40,53 @@ I am a third-year Ph.D candidate at [SNU Computer Vision Lab](https://cv.snu.ac.
 
 
 
+- title: "Joint Reconstruction of 3D Human and Object via Contact-Based Refinement Transformer"
+    authors: Hyeongjin Nam*, <strong>Daniel Sungho Jung*</strong>, Gyeongsik Moon, Kyoung Mu Lee (* equal contribution)
+    conference_short: CVPR
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024
+    pdf: https://openaccess.thecvf.com/content/CVPR2024/papers/Nam_Joint_Reconstruction_of_3D_Human_and_Object_via_Contact-Based_Refinement_CVPR_2024_paper.pdf
+    page: https://contho-release.github.io/
+    code: https://github.com/dqj5182/CONTHO_RELEASE
+    image: https://dqj5182.github.io/assets/img/CVPR2024_CONTHO3.png
+
+- title: "SemanticDraw: Towards Real-Time Interactive Content Creation from Image Diffusion Models"
+  authors: Jaerin Lee, <strong>Daniel Sungho Jung</strong>, Kanggeon Lee, Kyoung Mu Lee
+  conference_short: ArXiv
+  conference: ArXiv 2024
+  pdf: https://arxiv.org/abs/2403.09055
+  page: https://jaerinlee.com/research/semantic-draw
+  code: https://github.com/ironjr/semantic-draw
+  image: https://dqj5182.github.io/assets/img/Arxiv2024_SMD.png
+  notes: 500+ GitHub Stars
+
+- title: "Extract-and-Adaptation Network for 3D Interacting Hand Mesh Recovery"
+  authors: JoonKyu Park*, <strong>Daniel Sungho Jung*</strong>, Gyeongsik Moon*, Kyoung Mu Lee (* equal contribution)
+  conference_short: ICCVW
+  conference: IEEE/CVF International Conference on Computer Vision Workshops 2023
+  pdf: https://openaccess.thecvf.com/content/ICCV2023W/CV4Metaverse/papers/Park_Extract-and-Adaptation_Network_for_3D_Interacting_Hand_Mesh_Recovery_ICCVW_2023_paper.pdf
+  code: https://github.com/jkpark0825/EANet
+  image: https://dqj5182.github.io/assets/img/ICCVW2023_EANet3.png
+  notes: Oral Presentation
+  
+- title: "Cyclic Test-Time Adaptation on Monocular Video for 3D Human Mesh Reconstruction"
+  authors: Hyeongjin Nam, <strong>Daniel Sungho Jung</strong>, Yeonguk Oh, Kyoung Mu Lee
+  conference_short: ICCV
+  conference: IEEE/CVF International Conference on Computer Vision 2023
+  pdf: https://openaccess.thecvf.com/content/ICCV2023/papers/Nam_Cyclic_Test-Time_Adaptation_on_Monocular_Video_for_3D_Human_Mesh_ICCV_2023_paper.pdf
+  code: https://github.com/hygenie1228/CycleAdapt_RELEASE
+  image: https://dqj5182.github.io/assets/img/ICCV2023_CycleAdapt2.png
+
+- title: "RHOBIN Challenge: Reconstruction of Human Object Interaction"
+  authors: Xianghui Xie, Xi Wang, Nikos Athanasiou, Bharat Lal Bhatnagar, Chun-Hao P. Huang, Kaichun Mo, Hao Chen, Xia Jia, Zerui Zhang, Liangxian Cui, Xiao Lin, Bingqiao Qian, Jie Xiao, Wenfei Yang, Hyeongjin Nam, <strong>Daniel Sungho Jung</strong>, Kihoon Kim, Kyoung Mu Lee, Otmar Hilliges, Gerard Pons-Moll
+  conference_short: CVPR
+  conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition 2023
+  pdf: https://arxiv.org/abs/2401.04143
+  image: https://dqj5182.github.io/assets/img/rhobin_tech3.png
+
+
+
+
+
 
 <h2>Teaching</h2>
 
