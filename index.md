@@ -43,7 +43,7 @@ Hyeongjin Nam*, <strong>Daniel Sungho Jung*</strong>, Gyeongsik Moon, Kyoung Mu 
 <br>
 Jaerin Lee, <strong>Daniel Sungho Jung</strong>, Kanggeon Lee, Kyoung Mu Lee
 <br>
-<strong>ArXiv 2024</strong>
+<strong>ArXiv, 2024</strong>
 <br>
 <a href="https://jaerinlee.com/research/semantic-draw">project page</a> / <a href="https://arxiv.org/pdf/2403.09055">paper</a> / <a href="https://arxiv.org/abs/2403.09055">arxiv</a> / <a href="https://github.com/ironjr/semantic-draw">code</a>
 </p>
@@ -76,7 +76,7 @@ Hyeongjin Nam, <strong>Daniel Sungho Jung</strong>, Yeonguk Oh, Kyoung Mu Lee
 <br>
 Xianghui Xie, Xi Wang, Nikos Athanasiou, Bharat Lal Bhatnagar, Chun-Hao P. Huang, Kaichun Mo, Hao Chen, Xia Jia, Zerui Zhang, Liangxian Cui, Xiao Lin, Bingqiao Qian, Jie Xiao, Wenfei Yang, Hyeongjin Nam, <strong>Daniel Sungho Jung</strong>, Kihoon Kim, Kyoung Mu Lee, Otmar Hilliges, Gerard Pons-Moll
 <br>
-<strong>Computer Vision and Pattern Recognition Workshops (CVPRW) 2023</strong>
+<strong>Computer Vision and Pattern Recognition Workshops (CVPRW), 2023</strong>
 <br>
 <a href="https://rhobin-challenge.github.io/cvpr23/index.html">project page</a> / <a href="https://arxiv.org/pdf/2401.04143">paper</a> / <a href="https://arxiv.org/abs/2401.04143">arxiv</a>
 </p>
