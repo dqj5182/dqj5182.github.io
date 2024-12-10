@@ -113,7 +113,7 @@ Xianghui Xie, Xi Wang, Nikos Athanasiou, Bharat Lal Bhatnagar, Chun-Hao P. Huang
   <br>
   B.S. in Statistical Modeling Data Science
   <br>
-  University Park, United States
+  University Park, Pennsylvania, United States
   <br>
   Aug 2017 - Dec 2021
 </p>
