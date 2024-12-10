@@ -111,7 +111,7 @@ Xianghui Xie, Xi Wang, Nikos Athanasiou, Bharat Lal Bhatnagar, Chun-Hao P. Huang
 <p>
   <strong>The Pennsylvania State Univeristy</strong>
   <br>
-  B.S. in Statistical Modeling Data Science
+  B.S. in Statistical Modeling Data Science (Advisor: Prof. Dongwon Lee, Prof. Kaamran Raahemifar)
   <br>
   University Park, Pennsylvania, United States of America
   <br>
