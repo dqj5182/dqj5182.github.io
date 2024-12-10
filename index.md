@@ -103,6 +103,8 @@ Xianghui Xie, Xi Wang, Nikos Athanasiou, Bharat Lal Bhatnagar, Chun-Hao P. Huang
   <br>
   Ph.D. in Artificial Intelligence (Advisor: Prof. Kyoung Mu Lee)
   <br>
+  Seoul, Republic of Korea
+  <br>
   Mar 2022 - Present
 </p>
 
@@ -110,6 +112,8 @@ Xianghui Xie, Xi Wang, Nikos Athanasiou, Bharat Lal Bhatnagar, Chun-Hao P. Huang
   <strong>The Pennsylvania State Univeristy</strong>
   <br>
   B.S. in Statistical Modeling Data Science
+  <br>
+  University Park, United States of America
   <br>
   Aug 2017 - Dec 2021
 </p>
