@@ -12,6 +12,6 @@ main:
   #   url: /publications/
   #   right: true 
 
-  - title: "Home"
-    url: /
-    right: true 
+  # - title: "Home"
+  #   url: /
+  #   right: true 
