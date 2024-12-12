@@ -183,7 +183,7 @@ Korea (Ministry of Science and ICT)</li>
 
 ## Contact
 
-<p><strong>Address:</strong> <a href="https://maps.app.goo.gl/hEUrRmFreoEqqqw3A">Bldg 133, 1 Gwanak ro, Gwanak gu, Seoul, Republic of Korea 08826</a>
+<p><strong>Address:</strong> <a href="https://maps.app.goo.gl/hEUrRmFreoEqqqw3A"><autocolor>Bldg 133, 1 Gwanak ro, Gwanak gu, Seoul, Republic of Korea 08826</autocolor></a>
 <br />
 <strong>Office Location:</strong> Room 508 
 <br />
