@@ -128,13 +128,13 @@ Xianghui Xie, Xi Wang, Nikos Athanasiou, Bharat Lal Bhatnagar, Chun-Hao P. Huang
 <br>
 Introduction to Robotics, Seoul National University, 2024
 <br>
-<a href="https://ece.snu.ac.kr/en/research-faculty/faculty/fulltime?md=view&profid=p896">Prof. Jinsoo Kim</a>
+<a href="https://ece.snu.ac.kr/en/research-faculty/faculty/fulltime?md=view&profid=p896"><autocolor>Prof. Jinsoo Kim</autocolor></a>
 <br>
 <strong>Teaching Assistant</strong>
 <br>
 Introductory Microeconomic Analysis and Policy, The Pennsylvania State University, 2018
 <br>
-<a href="https://econ.la.psu.edu/people/alb43/">Prof. Austin Boyle</a> 
+<a href="https://econ.la.psu.edu/people/alb43/"><autocolor>Prof. Austin Boyle</autocolor></a> 
 </p>
 
 
