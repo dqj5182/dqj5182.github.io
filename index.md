@@ -153,7 +153,7 @@ Korea (Ministry of Science and ICT)</li>
 
 
 
-<h2>Community Activities</h2>
+<h2>Academic Experience</h2>
 
 <h4 style="margin:0 10px 0;">Workshop Co-Organizer</h4>
 
