@@ -84,7 +84,7 @@ Xianghui Xie, Xi Wang, Nikos Athanasiou, Bharat Lal Bhatnagar, Chun-Hao P. Huang
 
 
 
-<h2>Work Experience</h2>
+<h2>Work Experiences</h2>
 <p>
   <strong>SONY Corporation</strong>
   <br>
@@ -121,7 +121,7 @@ Xianghui Xie, Xi Wang, Nikos Athanasiou, Bharat Lal Bhatnagar, Chun-Hao P. Huang
 
 
 
-<h2>Teaching</h2>
+<h2>Teaching Experiences</h2>
 
 <p>
 <strong>Head Teaching Assistant</strong>
@@ -153,7 +153,7 @@ Korea (Ministry of Science and ICT)</li>
 
 
 
-<h2>Academic Service</h2>
+<h2>Academic Services</h2>
 
 <h4 style="margin:0 10px 0;">Workshop Co-Organizer</h4>
 
