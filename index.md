@@ -82,21 +82,6 @@ Xianghui Xie, Xi Wang, Nikos Athanasiou, Bharat Lal Bhatnagar, Chun-Hao P. Huang
 </p>
 
 
-
-
-<h2>Work Experiences</h2>
-<p>
-  <strong>SONY Corporation</strong>
-  <br>
-  (Incoming) Research Intern, Generative AI and Graphics
-  <br>
-  Tokyo, Japan
-  <br>
-  Apr 2025 - Jul 2025
-</p>
-
-
-
 <h2>Education</h2>
 <p>
   <strong>Seoul National University</strong>
