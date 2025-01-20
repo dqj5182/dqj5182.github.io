@@ -13,7 +13,7 @@ I am a fourth-year Ph.D candidate at [SNU Computer Vision Lab](https://cv.snu.ac
 <h2>News</h2>
 
 <ul>
-<li><strong>[Dec 2024]</strong> I'm co-organizing the 4th CV4Metaverse Workshop at <a href="https://cvpr.thecvf.com/Conferences/2025">CVPR 2025</a>.</li>
+<li><strong>[Dec 2024]</strong> I am co-organizing the 4th CV4Metaverse Workshop at <a href="https://cvpr.thecvf.com/Conferences/2025">CVPR 2025</a>.</li>
 <li><strong>[Jun. 2024]</strong> One paper about human and object is presented at <a href="https://cvpr.thecvf.com/Conferences/2024">CVPR 2024</a>.</li>
 <li><strong>[Mar. 2024]</strong> One paper about interactive generation is uploaded to <a href="https://arxiv.org/">Arxiv</a>.</li>
 <li><strong>[Oct. 2023]</strong> Two papers about test-time and interacting hand are presented at <a href="https://iccv2023.thecvf.com/">ICCV 2023</a>.</li>
