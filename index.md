@@ -128,11 +128,15 @@ Head Teaching Assistant
 <br>
 <a href="https://ece.snu.ac.kr/en/research-faculty/faculty/fulltime?md=view&profid=p896"><autocolor>Prof. Jinsoo Kim</autocolor></a>
 <br>
-<strong>Teaching Assistant</strong>
+Mar 2024 - Jun 2024
 <br>
-Introductory Microeconomic Analysis and Policy, The Pennsylvania State University, 2018
+<strong>Introductory Microeconomic Analysis and Policy, The Pennsylvania State University</strong>
+<br>
+Teaching Assistant
 <br>
 <a href="https://econ.la.psu.edu/people/alb43/"><autocolor>Prof. Austin Boyle</autocolor></a> 
+<br>
+Aug 2018 - Aug 2019
 </p>
 
 
