@@ -122,9 +122,9 @@ Xianghui Xie, Xi Wang, Nikos Athanasiou, Bharat Lal Bhatnagar, Chun-Hao P. Huang
 <h2>Teaching Experiences</h2>
 
 <p>
-<strong>Head Teaching Assistant</strong>
+<strong>Introduction to Robotics, Seoul National University</strong>
 <br>
-Introduction to Robotics, Seoul National University, 2024
+Head Teaching Assistant
 <br>
 <a href="https://ece.snu.ac.kr/en/research-faculty/faculty/fulltime?md=view&profid=p896"><autocolor>Prof. Jinsoo Kim</autocolor></a>
 <br>
