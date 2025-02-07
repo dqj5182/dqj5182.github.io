@@ -136,7 +136,7 @@ Teaching Assistant
 <br>
 <a href="https://econ.la.psu.edu/people/alb43/"><autocolor>Prof. Austin Boyle</autocolor></a> 
 <br>
-Aug 2018 - Aug 2019
+Aug 2018 - May 2019
 </p>
 
 
