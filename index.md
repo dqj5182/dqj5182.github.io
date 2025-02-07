@@ -146,7 +146,7 @@ Aug 2018 - May 2019
 
 <ul style="margin:0 0 5px;">
   <li>The 1st Place Winner for Joint Reconstruction of Human and Object Track, The RHOBIN
-workshop in conjunction with CVPR 2023</li>
+challenge in conjunction with CVPR 2023</li>
   <li>Artificial Intelligence Graduate School Program Fellowship, IITP in the Government of
 Korea (Ministry of Science and ICT)</li> 
   <li>Penn State Dean’s List, Office of Dean at The Pennsylvania State University</li>
