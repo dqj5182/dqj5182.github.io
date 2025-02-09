@@ -116,6 +116,24 @@ Xianghui Xie, Xi Wang, Nikos Athanasiou, Bharat Lal Bhatnagar, Chun-Hao P. Huang
   <br>
   Apr 2025 - Jul 2025
 </p>
+<p>
+  <strong>Korea Advanced Institute of Science and Technology (KAIST)</strong>
+  <br>
+  Visiting Student Researcher
+  <br>
+  Daejeon, Republic of Korea
+  <br>
+  Jun 2021 - Aug 2021
+</p>
+<p>
+  <strong>The Pennsylvania State University</strong>
+  <br>
+  Undergraduate Research Assistant
+  <br>
+  University Park, PA, USA
+  <br>
+  Aug 2019 - Sep 2020
+</p>
 
 
 
