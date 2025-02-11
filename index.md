@@ -179,7 +179,7 @@ Korea (Ministry of Science and ICT)</li>
 <h4 style="margin:0 10px 0;">Workshop Co-Organizer</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://cvpr.thecvf.com/Conferences/2025"><autocolor>CV4Metaverse Workshop at CVPR 2025</autocolor></a></li>
+  <li><a href="https://sites.google.com/view/cv4metaverse-2025/"><autocolor>CV4Metaverse Workshop at CVPR 2025</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Workshop Technical Program Committee</h4>
