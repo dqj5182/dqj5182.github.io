@@ -14,6 +14,7 @@ I am a fourth-year Ph.D candidate at [SNU Computer Vision Lab](https://cv.snu.ac
 
 <ul>
 <li><strong>[Apr 2025]</strong> I am joining <a href="https://www.sony.com/en/">SONY</a> as a Research Intern.</li>
+  <li><strong>[Feb. 2024]</strong> One paper about interactive content creation is accepted at <a href="https://cvpr.thecvf.com/Conferences/2025">CVPR 2025</a>.</li>
 <li><strong>[Dec 2024]</strong> I am co-organizing the <a href="https://sites.google.com/view/cv4metaverse-2025">4th CV4Metaverse Workshop</a> at <a href="https://cvpr.thecvf.com/Conferences/2025">CVPR 2025</a>.</li>
 <li><strong>[Jun. 2024]</strong> One paper about human and object interaction is presented at <a href="https://cvpr.thecvf.com/Conferences/2024">CVPR 2024</a>.</li>
 <li><strong>[Mar. 2024]</strong> One paper about interactive image generation is uploaded to <a href="https://arxiv.org/">Arxiv</a>.</li>
@@ -29,6 +30,17 @@ I am a fourth-year Ph.D candidate at [SNU Computer Vision Lab](https://cv.snu.ac
 
 <h2>Publications</h2>
 <p>
+<img src="https://dqj5182.github.io/assets/img/semantic_draw_teaser.gif" alt="TC_CLIP_framework" style="width: 200px; height: auto; display: block; margin: 0;">
+<strong>SemanticDraw: Towards Real-Time Interactive Content Creation from Image Diffusion Models</strong>
+<br>
+Jaerin Lee, <strong>Daniel Sungho Jung</strong>, Kanggeon Lee, Kyoung Mu Lee
+<br>
+<strong>Computer Vision and Pattern Recognition (CVPR), 2025  </strong>
+<br>
+<a href="https://jaerinlee.com/research/semantic-draw">project page</a> / <a href="https://arxiv.org/pdf/2403.09055">paper</a> / <a href="https://arxiv.org/abs/2403.09055">arxiv</a> / <a href="https://github.com/ironjr/semantic-draw">code</a>
+</p>
+
+<p>
 <img src="https://dqj5182.github.io/assets/img/contho_teaser.gif" alt="TC_CLIP_framework">
 <strong>Joint Reconstruction of 3D Human and Object via Contact-Based Refinement Transformer</strong>
 <br>
@@ -37,17 +49,6 @@ Hyeongjin Nam*, <strong>Daniel Sungho Jung*</strong>, Gyeongsik Moon, Kyoung Mu 
 <strong>Computer Vision and Pattern Recognition (CVPR), 2024  </strong>
 <br>
 <a href="https://contho-release.github.io/">project page</a> / <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Nam_Joint_Reconstruction_of_3D_Human_and_Object_via_Contact-Based_Refinement_CVPR_2024_paper.pdf">paper</a> / <a href="https://arxiv.org/abs/2404.04819">arxiv</a> / <a href="https://github.com/dqj5182/CONTHO_RELEASE">code</a>
-</p>
-
-<p>
-<img src="https://dqj5182.github.io/assets/img/semantic_draw_teaser.gif" alt="TC_CLIP_framework" style="width: 200px; height: auto; display: block; margin: 0;">
-<strong>SemanticDraw: Towards Real-Time Interactive Content Creation from Image Diffusion Models</strong>
-<br>
-Jaerin Lee, <strong>Daniel Sungho Jung</strong>, Kanggeon Lee, Kyoung Mu Lee
-<br>
-<strong>ArXiv, 2024</strong>
-<br>
-<a href="https://jaerinlee.com/research/semantic-draw">project page</a> / <a href="https://arxiv.org/pdf/2403.09055">paper</a> / <a href="https://arxiv.org/abs/2403.09055">arxiv</a> / <a href="https://github.com/ironjr/semantic-draw">code</a>
 </p>
 
 <p>
