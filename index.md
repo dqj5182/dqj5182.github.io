@@ -34,7 +34,7 @@ I am a fourth-year Ph.D candidate at [SNU Computer Vision Lab](https://cv.snu.ac
 <br>
 Jaerin Lee, <strong>Daniel Sungho Jung</strong>, Kanggeon Lee, Kyoung Mu Lee
 <br>
-<strong>Computer Vision and Pattern Recognition (CVPR), 2025  </strong>
+<strong>Conference on Computer Vision and Pattern Recognition (CVPR), 2025  </strong>
 <br>
 <a href="https://jaerinlee.com/research/semantic-draw">project page</a> / <a href="https://arxiv.org/pdf/2403.09055">paper</a> / <a href="https://arxiv.org/abs/2403.09055">arxiv</a> / <a href="https://github.com/ironjr/semantic-draw">code</a>
 </p>
@@ -45,7 +45,7 @@ Jaerin Lee, <strong>Daniel Sungho Jung</strong>, Kanggeon Lee, Kyoung Mu Lee
 <br>
 Hyeongjin Nam*, <strong>Daniel Sungho Jung*</strong>, Gyeongsik Moon, Kyoung Mu Lee (* equal contribution)
 <br>
-<strong>Computer Vision and Pattern Recognition (CVPR), 2024  </strong>
+<strong>Conference on Computer Vision and Pattern Recognition (CVPR), 2024  </strong>
 <br>
 <a href="https://contho-release.github.io/">project page</a> / <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Nam_Joint_Reconstruction_of_3D_Human_and_Object_via_Contact-Based_Refinement_CVPR_2024_paper.pdf">paper</a> / <a href="https://arxiv.org/abs/2404.04819">arxiv</a> / <a href="https://github.com/dqj5182/CONTHO_RELEASE">code</a>
 </p>
@@ -78,7 +78,7 @@ Hyeongjin Nam, <strong>Daniel Sungho Jung</strong>, Yeonguk Oh, Kyoung Mu Lee
 <br>
 Xianghui Xie, Xi Wang, Nikos Athanasiou, Bharat Lal Bhatnagar, Chun-Hao P. Huang, Kaichun Mo, Hao Chen, Xia Jia, Zerui Zhang, Liangxian Cui, Xiao Lin, Bingqiao Qian, Jie Xiao, Wenfei Yang, Hyeongjin Nam, <strong>Daniel Sungho Jung</strong>, Kihoon Kim, Kyoung Mu Lee, Otmar Hilliges, Gerard Pons-Moll
 <br>
-<strong>Computer Vision and Pattern Recognition Workshops (CVPRW), 2023</strong>
+<strong>Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 2023</strong>
 <br>
 <a href="https://rhobin-challenge.github.io/cvpr23/index.html">project page</a> / <a href="https://arxiv.org/pdf/2401.04143">paper</a> / <a href="https://arxiv.org/abs/2401.04143">arxiv</a>
 </p>
