@@ -40,7 +40,7 @@ Jaerin Lee, <strong>Daniel Sungho Jung</strong>, Kanggeon Lee, Kyoung Mu Lee
 <a href="https://arxiv.org/pdf/2403.09055">paper</a> /
 <a href="https://arxiv.org/abs/2403.09055">arxiv</a> /
 <a href="https://github.com/ironjr/semantic-draw">code</a> /
-<a href="https://huggingface.co/spaces/ironjr/SemanticPalette3" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Demo</a> /
+<a href="https://huggingface.co/spaces/ironjr/SemanticPalette3">demo</a> /
 <strong><a style="color:#e74d3c; font-weight:600"><i>500+ GitHub Stars</i></a></strong>
 </p>
 
