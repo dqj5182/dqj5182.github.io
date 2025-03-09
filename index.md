@@ -36,7 +36,12 @@ Jaerin Lee, <strong>Daniel Sungho Jung</strong>, Kanggeon Lee, Kyoung Mu Lee
 <br>
 <strong>Conference on Computer Vision and Pattern Recognition (CVPR), 2025  </strong>
 <br>
-<a href="https://jaerinlee.com/research/semantic-draw">project page</a> / <a href="https://arxiv.org/pdf/2403.09055">paper</a> / <a href="https://arxiv.org/abs/2403.09055">arxiv</a> / <a href="https://github.com/ironjr/semantic-draw">code</a>
+<a href="https://jaerinlee.com/research/semantic-draw">project page</a>
+<a href="https://arxiv.org/pdf/2403.09055">paper</a>
+<a href="https://arxiv.org/abs/2403.09055">arxiv</a>
+<a href="https://github.com/ironjr/semantic-draw">code</a>
+<a href="https://huggingface.co/spaces/ironjr/SemanticPalette3" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Demo</a>
+<strong><a style="color:#e74d3c; font-weight:600"><i>500+ GitHub Stars</i></a></strong>
 </p>
 
 <p>
