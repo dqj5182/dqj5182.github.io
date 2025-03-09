@@ -63,7 +63,7 @@ JoonKyu Park*, <strong>Daniel Sungho Jung*</strong>, Gyeongsik Moon*, Kyoung Mu 
 <br>
 <strong>International Conference on Computer Vision Workshops (ICCVW), 2023</strong>
 <br>
-<a href="https://openaccess.thecvf.com/content/ICCV2023W/CV4Metaverse/papers/Park_Extract-and-Adaptation_Network_for_3D_Interacting_Hand_Mesh_Recovery_ICCVW_2023_paper.pdf">paper</a> / <a href="https://arxiv.org/abs/2309.01943">arxiv</a> / <a href="https://github.com/jkpark0825/EANet">code</a>
+<a href="https://openaccess.thecvf.com/content/ICCV2023W/CV4Metaverse/papers/Park_Extract-and-Adaptation_Network_for_3D_Interacting_Hand_Mesh_Recovery_ICCVW_2023_paper.pdf">paper</a> / <a href="https://arxiv.org/abs/2309.01943">arxiv</a> / <a href="https://github.com/jkpark0825/EANet">code</a> / <strong><a style="color:#e74d3c; font-weight:600"><i>Oral Presentation</i></a></strong>
 </p>
 
 <p>
