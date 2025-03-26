@@ -204,6 +204,7 @@ Korea (Ministry of Science and ICT)</li>
 <h4 style="margin:0 10px 0;">Workshop Reviewer</h4>
 
 <ul style="margin:0 0 20px;">
+  <li><a href="https://eccv.ecva.net/Conferences/2024"><autocolor>Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 2025</autocolor></a></li>
   <li><a href="https://eccv.ecva.net/Conferences/2024"><autocolor>European Conference on Computer Vision Workshops (ECCVW), 2024</autocolor></a></li>
 </ul>
 
