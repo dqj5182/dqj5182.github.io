@@ -13,7 +13,7 @@ I am a fourth-year Ph.D candidate at [SNU Computer Vision Lab](https://cv.snu.ac
 <h2>News</h2>
 
 <ul>
-<li><strong>[Apr 2025]</strong> I am joining <a href="https://www.sony.com/en/">SONY</a> as a Research Intern.</li>
+<li><strong>[Apr 2025]</strong> I joined <a href="https://www.sony.com/en/">SONY</a> as a Research Intern.</li>
   <li><strong>[Feb. 2024]</strong> One paper about interactive content creation is accepted at <a href="https://cvpr.thecvf.com/Conferences/2025">CVPR 2025</a>.</li>
 <li><strong>[Dec 2024]</strong> I am co-organizing the <a href="https://sites.google.com/view/cv4metaverse-2025">4th CV4Metaverse Workshop</a> at <a href="https://cvpr.thecvf.com/Conferences/2025">CVPR 2025</a>.</li>
 <li><strong>[Jun. 2024]</strong> One paper about human and object interaction is presented at <a href="https://cvpr.thecvf.com/Conferences/2024">CVPR 2024</a>.</li>
