@@ -85,7 +85,7 @@ Xianghui Xie, Xi Wang, Nikos Athanasiou, Bharat Lal Bhatnagar, Chun-Hao P. Huang
 <br>
 <strong>Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 2023</strong>
 <br>
-<a href="https://rhobin-challenge.github.io/cvpr23/index.html">project page</a> / <a href="https://arxiv.org/pdf/2401.04143">paper</a> / <a href="https://arxiv.org/abs/2401.04143">arxiv</a>
+<a href="https://rhobin-challenge.github.io/cvpr23/index.html">project page</a> / <a href="https://arxiv.org/pdf/2401.04143">paper</a> / <a href="https://arxiv.org/abs/2401.04143">arxiv</a> / <strong><a style="color:#e74d3c; font-weight:600"><i>1st Place Winner</i></a></strong>
 </p>
 
 
