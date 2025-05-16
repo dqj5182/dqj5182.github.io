@@ -29,7 +29,7 @@ I am a fourth-year Ph.D candidate at [SNU Computer Vision Lab](https://cv.snu.ac
 
 <h2>Publications</h2>
 <p>
-<img src="https://dqj5182.github.io/assets/img/haco_profile.png" alt="TC_CLIP_framework" style="width: 200px; height: auto; display: block; margin: 0;">
+<img src="https://dqj5182.github.io/assets/img/haco_profile.png" alt="TC_CLIP_framework" style="width: 600px; height: auto; display: block; margin: 0;">
 <strong>TO BE ANNOUNCED</strong>
 <br>
 <strong>Daniel Sungho Jung</strong>, Kyoung Mu Lee
