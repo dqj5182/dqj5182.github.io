@@ -8,9 +8,9 @@ layout: homepage
 
 <h2>About me</h2>
 I am a fourth-year Ph.D candidate at [SNU Computer Vision Lab](https://cv.snu.ac.kr/) advised by [Prof. Kyoung Mu Lee](https://cv.snu.ac.kr/index.php/~kmlee/) (Editor in Cheif of [TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)). Also, I am currently a reserach intern at [SONY](https://www.sony.com/en/). 
-
+<br />
 My main research topic is <strong>3D Human Reconstruction</strong> and <strong>3D Scene Reconstruction</strong> towards "photo realistic" and "semantically plausible" while "accurate" reconstruction of 3D human and 3D scene around the human. 
-
+<br />
 Before joining [SNU](https://www.snu.ac.kr/index.html), I finished my undegraduate degree at [Penn State](https://www.psu.edu/) majoring  Statistical Modeling Data Science. During the years, I worked on <strong>Data Mining in Social Media</strong> with [Prof. Dongwon Lee](https://ist.psu.edu/directory/dul13) from [The PIKE Group](https://pike.psu.edu/dongwon/) at [Penn State](https://www.psu.edu/) and studied <strong>Graph Neural Networks & Transformer Models</strong> at [KAIST Vision & Learning Lab](https://vllab.kaist.ac.kr/) with [Prof. Seunghoon Hong](https://maga33.github.io/) as Visiting Student Researcher.
 
 
