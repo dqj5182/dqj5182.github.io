@@ -129,7 +129,7 @@ Xianghui Xie, Xi Wang, Nikos Athanasiou, Bharat Lal Bhatnagar, Chun-Hao P. Huang
 </p>
 
 
-<h2>Work Experiences</h2>
+<h2>Industrial Experiences</h2>
 <p>
   <strong>SONY Corporation</strong>
   <br>
