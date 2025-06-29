@@ -139,6 +139,10 @@ Xianghui Xie, Xi Wang, Nikos Athanasiou, Bharat Lal Bhatnagar, Chun-Hao P. Huang
   <br>
   Apr 2025 - Jul 2025
 </p>
+
+
+
+<h2>Academic Experiences</h2>
 <p>
   <strong>Korea Advanced Institute of Science and Technology (KAIST)</strong>
   <br>
