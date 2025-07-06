@@ -140,7 +140,7 @@ Xianghui Xie, Xi Wang, Nikos Athanasiou, Bharat Lal Bhatnagar, Chun-Hao P. Huang
 
 <h2>Industrial Experiences</h2>
 <p>
-  <strong>SONY Corporation</strong>
+  <strong>SONY Group Corporation</strong>
   <br>
   Research Intern
   <br>
