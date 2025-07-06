@@ -11,7 +11,7 @@ I am a fourth-year Ph.D candidate at [Seoul National University](https://www.snu
 
 Previously, I was also part of [SONY](https://www.sony.com/en/) and [KAIST](https://kaist.ac.kr/) as a visiting researcher.
 
-My main research agenda is 3D Virtual Human for 1) Virtual Reality, 2) Robotics, and 3) Interactive Entertainment.
+My main research agenda is 3D Virtual Human for Virtual Reality, Robotics, and Interactive Entertainment.
 
 <!---
 Also, I am a reserach intern at [SONY](https://www.sony.com/en/).
