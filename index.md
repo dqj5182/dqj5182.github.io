@@ -9,7 +9,7 @@ layout: homepage
 <h2>About me</h2>
 I am a fourth-year Ph.D candidate at [Seoul National University](https://www.snu.ac.kr/index.html), where I am part of [SNU Computer Vision Lab](https://cv.snu.ac.kr/) under the supervision of [Prof. Kyoung Mu Lee](https://cv.snu.ac.kr/index.php/~kmlee/) (Editor in Cheif of [TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)). I received my B.S. in Statistical Modeling Data Science at Eberly College of [The Pennsylvania State University](https://www.psu.edu/).
 
-Previously, I was part of [SONY](https://www.sony.com/en/), [KAIST](https://kaist.ac.kr/), and [Penn State](https://www.psu.edu/).
+Previously, I was also part of [SONY](https://www.sony.com/en/) and [KAIST](https://kaist.ac.kr/) as a visiting researcher.
 
 My main research agenda is to enable the connection between real-world and virtual-world in 3D space.
 
