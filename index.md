@@ -133,7 +133,7 @@ Xianghui Xie, Xi Wang, Nikos Athanasiou, Bharat Lal Bhatnagar, Chun-Hao P. Huang
 <p>
   <strong>SONY Corporation</strong>
   <br>
-  Research Intern (Generative AI and Graphics)
+  Research Intern
   <br>
   Tokyo, Japan
   <br>
