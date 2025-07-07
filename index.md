@@ -23,10 +23,10 @@ Before joining [SNU](https://www.snu.ac.kr/index.html), I finished my undegradua
 <h2>News</h2>
 
 <ul>
+<li><strong>[Jun 2024]</strong> One paper about interactive content creation is presented at <a href="https://cvpr.thecvf.com/Conferences/2025">CVPR 2025</a>.</li>
+<li><strong>[Jun 2024]</strong> I co-organized the <a href="https://sites.google.com/view/cv4metaverse-2025">4th CV4Metaverse Workshop</a> at <a href="https://cvpr.thecvf.com/Conferences/2025">CVPR 2025</a>.</li>
 <li><strong>[May 2025]</strong> One paper about hand contact is presented at <a href="https://arxiv.org/abs/2505.11152">ArXiv 2025</a>.</li>
 <li><strong>[Apr 2025]</strong> I joined <a href="https://www.sony.com/en/">SONY</a> as a Research Intern.</li>
-  <li><strong>[Feb 2024]</strong> One paper about interactive content creation is accepted at <a href="https://cvpr.thecvf.com/Conferences/2025">CVPR 2025</a>.</li>
-<li><strong>[Dec 2024]</strong> I am co-organizing the <a href="https://sites.google.com/view/cv4metaverse-2025">4th CV4Metaverse Workshop</a> at <a href="https://cvpr.thecvf.com/Conferences/2025">CVPR 2025</a>.</li>
 <li><strong>[Jun 2024]</strong> One paper about human and object interaction is presented at <a href="https://cvpr.thecvf.com/Conferences/2024">CVPR 2024</a>.</li>
 <li><strong>[Oct 2023]</strong> Two papers about test-time adaptation and interacting hands are presented at <a href="https://iccv2023.thecvf.com/">ICCV 2023</a>.</li>
 <li><strong>[Jun 2023]</strong> We presented as challenge winner at the 1st RHOBIN Workshop of <a href="https://cvpr.thecvf.com/Conferences/2023">CVPR 2023</a>.
