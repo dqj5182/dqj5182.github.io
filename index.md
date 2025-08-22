@@ -199,7 +199,7 @@ Aug 2018 - May 2019
 <h2>Honors</h2>
 
 <ul style="margin:0 0 5px;">
-  <li>SNU Teaching and Research Assistant Fellowship</li>
+  <li>SNU Teaching and Research Assistant Fellowship, Seoul National University</li>
   <li>The 1st Place Winner for Joint Reconstruction of Human and Object Track, The RHOBIN Challenge in conjunction with CVPR 2023</li>
   <li>Artificial Intelligence Graduate School Program Fellowship, IITP in the Government of Korea (Ministry of Science and ICT)</li> 
   <li>Penn State Dean’s List, Office of Dean at The Pennsylvania State University</li>
