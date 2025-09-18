@@ -23,6 +23,7 @@ Before joining [SNU](https://www.snu.ac.kr/index.html), I finished my undegradua
 <h2>News</h2>
 
 <ul>
+<li><strong>[Sep 2025]</strong> One paper about hand contact is accepted at <a href="https://neurips.cc/Conferences/2025">NeurIPS 2025</a>.</li>
 <li><strong>[Jun 2025]</strong> I co-organized the <a href="https://sites.google.com/view/cv4metaverse-2025">4th CV4Metaverse Workshop</a> at <a href="https://cvpr.thecvf.com/Conferences/2025">CVPR 2025</a>.</li>
 <li><strong>[Jun 2025]</strong> One paper about interactive content creation is presented at <a href="https://cvpr.thecvf.com/Conferences/2025">CVPR 2025</a>.</li>
 <li><strong>[May 2025]</strong> One paper about hand contact is presented at <a href="https://arxiv.org/abs/2505.11152">ArXiv 2025</a>.</li>
@@ -45,7 +46,7 @@ Before joining [SNU](https://www.snu.ac.kr/index.html), I finished my undegradua
 <br>
 <strong>Daniel Sungho Jung</strong>, Kyoung Mu Lee
 <br>
-<strong>ArXiv, 2025</strong>
+<strong>Conference on Neural Information Processing Systems (NeurIPS), 2025</strong>
 <br>
 <a href="https://haco-release.github.io/">project page</a> /
 <a href="https://arxiv.org/pdf/2505.11152">paper</a> /
