@@ -46,7 +46,7 @@ Before joining [SNU](https://www.snu.ac.kr/index.html), I finished my undegradua
 <br>
 <strong>Daniel Sungho Jung</strong>, Kyoung Mu Lee
 <br>
-<strong>Advances in Neural Information Processing Systems (NeurIPS), 2025</strong>
+<strong>Annual Conference on Neural Information Processing Systems (NeurIPS), 2025</strong>
 <br>
 <a href="https://haco-release.github.io/">project page</a> /
 <a href="https://arxiv.org/pdf/2505.11152">paper</a> /
