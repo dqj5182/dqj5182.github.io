@@ -227,6 +227,7 @@ Aug 2018 - May 2019
 <h4 style="margin:0 10px 0;">Conference Reviewer</h4>
 
 <ul style="margin:0 0 5px;">
+  <li><a href="https://cvpr.thecvf.com/Conferences/2026"><autocolor> Conference on Computer Vision and Pattern Recognition (CVPR), 2026</autocolor></a></li>
   <li><a href="https://virtual.aistats.org/"><autocolor>Annual Conference on Artificial Intelligence and Statistics (AISTATS), 2026</autocolor></a></li>
   <li><a href="https://iclr.cc/Conferences/2025/ProgramCommittee"><autocolor>International Conference on Learning Representations (ICLR), 2025-2026</autocolor></a></li>
   <li><a href="https://neurips.cc/Conferences/2024/ProgramCommittee#all-reviewers"><autocolor>Annual Conference on Neural Information Processing Systems (NeurIPS), 2024-2025</autocolor></a></li>
