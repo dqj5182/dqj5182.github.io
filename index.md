@@ -210,6 +210,13 @@ Aug 2018 - May 2019
 
 
 
+<h2>Invited Talks</h2>
+
+<ul style="margin:0 0 5px;">
+  <li>Learning Dense Hand Contact Estimation from Imbalanced Data, SNU IPAI Lunch Seminar</li>
+</ul>
+
+
 <h2>Academic Services</h2>
 
 <h4 style="margin:0 10px 0;">Workshop Organizer</h4>
