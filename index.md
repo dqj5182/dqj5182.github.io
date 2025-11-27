@@ -40,6 +40,20 @@ Before joining [SNU](https://www.snu.ac.kr/index.html), I finished my undegradua
 
 <h2>Publications</h2>
 <p>
+<img src="https://dqj5182.github.io/assets/img/feco_profile.png" alt="TC_CLIP_framework" style="width: 450px; height: auto; display: block; margin: 0;">
+<strong>To be announced</strong>
+<br>
+<strong>Daniel Sungho Jung</strong>, Kyoung Mu Lee
+<br>
+<strong>ArXiv, 2025</strong>
+<br>
+<a href="https://feco-release.github.io/">project page</a> /
+</p>
+
+
+
+
+<p>
 <img src="https://dqj5182.github.io/assets/img/haco_profile.png" alt="TC_CLIP_framework" style="width: 450px; height: auto; display: block; margin: 0;">
 <strong>Learning Dense Hand Contact Estimation from Imbalanced Data</strong>
 <br>
@@ -51,7 +65,7 @@ Before joining [SNU](https://www.snu.ac.kr/index.html), I finished my undegradua
 <a href="https://openreview.net/pdf/675470edc47b66903daee2c8f60bd0f3fa8065f0.pdf">paper</a> /
 <a href="https://arxiv.org/abs/2505.11152">arxiv</a> /
 <a href="https://github.com/dqj5182/HACO_RELEASE">code</a> /
-  <a href="https://huggingface.co/spaces/dqj5182/HACO">demo</a>
+<a href="https://huggingface.co/spaces/dqj5182/HACO">demo</a>
 </p>
 
 
