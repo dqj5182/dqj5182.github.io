@@ -39,7 +39,16 @@ Before joining [SNU](https://www.snu.ac.kr/index.html), I finished my undegradua
 
 
 <h2>Publications</h2>
-
+<p>
+<img src="https://dqj5182.github.io/assets/img/feco_profile.png" alt="TC_CLIP_framework" style="width: 450px; height: auto; display: block; margin: 0;">
+<strong>To be announced</strong>
+<br>
+<strong>Daniel Sungho Jung</strong>, Kyoung Mu Lee
+<br>
+<strong>ArXiv, 2025</strong>
+<br>
+<a href="https://feco-release.github.io/">project page</a> /
+</p>
 
 
 
