@@ -46,8 +46,6 @@ Before joining [SNU](https://www.snu.ac.kr/index.html), I finished my undegradua
 <strong>Daniel Sungho Jung</strong>, Kyoung Mu Lee
 <br>
 <strong>ArXiv, 2025</strong>
-<br>
-<a href="https://feco-release.github.io/">project page</a>
 </p>
 
 
