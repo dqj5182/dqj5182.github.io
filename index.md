@@ -40,7 +40,7 @@ Before joining [SNU](https://www.snu.ac.kr/index.html), I finished my undegradua
 
 <h2>Publications</h2>
 <p>
-<img src="https://dqj5182.github.io/assets/img/feco_profile.png" alt="TC_CLIP_framework" style="width: 400px; height: auto; display: block; margin: 0;">
+<img src="https://dqj5182.github.io/assets/img/feco_profile.png" alt="TC_CLIP_framework" style="width: auto; height: 100px; display: block; margin: 0;">
 <strong>To be announced</strong>
 <br>
 <strong>Daniel Sungho Jung</strong>, Kyoung Mu Lee
@@ -52,7 +52,7 @@ Before joining [SNU](https://www.snu.ac.kr/index.html), I finished my undegradua
 
 
 <p>
-<img src="https://dqj5182.github.io/assets/img/haco_profile.png" alt="TC_CLIP_framework" style="width: 450px; height: auto; display: block; margin: 0;">
+<img src="https://dqj5182.github.io/assets/img/haco_profile.png" alt="TC_CLIP_framework" style="width: auto; height: 100px; display: block; margin: 0;">
 <strong>Learning Dense Hand Contact Estimation from Imbalanced Data</strong>
 <br>
 <strong>Daniel Sungho Jung</strong>, Kyoung Mu Lee
