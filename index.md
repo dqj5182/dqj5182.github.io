@@ -41,10 +41,12 @@ Before joining [SNU](https://www.snu.ac.kr/index.html), I finished my undegradua
 <h2>Publications</h2>
 <p>
 <img src="https://dqj5182.github.io/assets/img/feco_profile.png" alt="TC_CLIP_framework" style="width: auto; height: 180px; display: block; margin: 0;">
-<strong>To be announced</strong>
+<strong>Shoe Style-Invariant and Ground-Aware Learning for Dense Foot Contact Estimation</strong>
 <br>
 <strong>Daniel Sungho Jung</strong>, Kyoung Mu Lee
 <br>
+<a href="https://arxiv.org/pdf/2511.22184">paper</a> /
+<a href="https://arxiv.org/abs/2511.22184">arxiv</a>
 <strong>ArXiv, 2025</strong>
 </p>
 
