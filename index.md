@@ -48,6 +48,7 @@ Before joining [SNU](https://www.snu.ac.kr/index.html), I finished my undegradua
 <br>
 <strong>ArXiv, 2025</strong>
 <br>
+  <a href="https://feco-release.github.io/">project page</a> /
 <a href="https://arxiv.org/pdf/2511.22184">paper</a> /
 <a href="https://arxiv.org/abs/2511.22184">arxiv</a>
 </p>
