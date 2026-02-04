@@ -46,7 +46,7 @@ Before joining [SNU](https://www.snu.ac.kr/index.html), I finished my undegradua
 <br>
 Hyeongjin Nam, <strong>Daniel Sungho Jung</strong>, Kyoung Mu Lee
 <br>
-<strong>ArXiv, 2026</strong>
+<strong>To be appear, 2026</strong>
 <br>
 <a href="https://hygenie1228.github.io/TeHOR/">project page</a>
 </p>
