@@ -79,7 +79,7 @@ Hyeongjin Nam, <strong>Daniel Sungho Jung</strong>, Kyoung Mu Lee
 <strong>Annual Conference on Neural Information Processing Systems (NeurIPS), 2025</strong>
 <br>
 <a href="https://haco-release.github.io/">project page</a> /
-<a href="https://openreview.net/pdf/675470edc47b66903daee2c8f60bd0f3fa8065f0.pdf">paper</a> /
+<a href="https://openreview.net/pdf?id=SAGZBti9lj">paper</a> /
 <a href="https://arxiv.org/abs/2505.11152">arxiv</a> /
 <a href="https://github.com/dqj5182/HACO_RELEASE">code</a> /
 <a href="https://huggingface.co/spaces/dqj5182/HACO">demo</a>
