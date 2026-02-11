@@ -244,7 +244,7 @@ Aug 2018 - May 2019
 <h2>Invited Talks</h2>
 
 <ul style="margin:0 0 5px;">
-  <li>From Observation to Motivation: My Path to 3D Human Contact Estimation Research, Soongsil University (Host: Prof. Heewon Kim)</li>
+  <li>Learning Dense Hand Contact Estimation from Imbalanced Data, Soongsil University (Host: Prof. Heewon Kim)</li>
   <li>Learning Dense Hand Contact Estimation from Imbalanced Data, SNU IPAI Lunch Seminar</li>
 </ul>
 
