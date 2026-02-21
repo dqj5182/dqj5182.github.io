@@ -23,6 +23,7 @@ Before joining [SNU](https://www.snu.ac.kr/index.html), I finished my undegradua
 <h2>News</h2>
 
 <ul>
+<li><strong>[Fev 2026]</strong> Two papers about human-object interaction and foot contact are presented at <a href="https://cvpr.thecvf.com/Conferences/2026">CVPR 2026</a>.</li>
 <li><strong>[Dec 2025]</strong> One paper about hand contact is presented at <a href="https://neurips.cc/Conferences/2025">NeurIPS 2025</a>.</li>
 <li><strong>[Nov 2025]</strong> One paper about foot contact is presented at <a href="https://arxiv.org">ArXiv</a>.</li>
 <li><strong>[Jun 2025]</strong> I co-organized the <a href="https://sites.google.com/view/cv4metaverse-2025">4th CV4Metaverse Workshop</a> at <a href="https://cvpr.thecvf.com/Conferences/2025">CVPR 2025</a>.</li>
@@ -46,7 +47,7 @@ Before joining [SNU](https://www.snu.ac.kr/index.html), I finished my undegradua
 <br>
 Hyeongjin Nam, <strong>Daniel Sungho Jung</strong>, Kyoung Mu Lee
 <br>
-<strong>To be appear, 2026</strong>
+<strong>Conference on Computer Vision and Pattern Recognition (CVPR), 2026</strong>
 <br>
 <a href="https://hygenie1228.github.io/TeHOR/">project page</a>
 </p>
@@ -59,7 +60,7 @@ Hyeongjin Nam, <strong>Daniel Sungho Jung</strong>, Kyoung Mu Lee
 <br>
 <strong>Daniel Sungho Jung</strong>, Kyoung Mu Lee
 <br>
-<strong>ArXiv, 2025</strong>
+<strong>Conference on Computer Vision and Pattern Recognition (CVPR), 2026</strong>
 <br>
   <a href="https://feco-release.github.io/">project page</a> /
 <a href="https://arxiv.org/pdf/2511.22184">paper</a> /
