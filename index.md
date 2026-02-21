@@ -23,7 +23,7 @@ Before joining [SNU](https://www.snu.ac.kr/index.html), I finished my undegradua
 <h2>News</h2>
 
 <ul>
-<li><strong>[Fev 2026]</strong> Two papers about human-object interaction and foot contact are accepted at <a href="https://cvpr.thecvf.com/Conferences/2026">CVPR 2026</a>.</li>
+<li><strong>[Feb 2026]</strong> Two papers about human-object interaction and foot contact are accepted at <a href="https://cvpr.thecvf.com/Conferences/2026">CVPR 2026</a>.</li>
 <li><strong>[Dec 2025]</strong> One paper about hand contact is presented at <a href="https://neurips.cc/Conferences/2025">NeurIPS 2025</a>.</li>
 <li><strong>[Jun 2025]</strong> I co-organized the <a href="https://sites.google.com/view/cv4metaverse-2025">4th CV4Metaverse Workshop</a> at <a href="https://cvpr.thecvf.com/Conferences/2025">CVPR 2025</a>.</li>
 <li><strong>[Jun 2025]</strong> One paper about interactive content creation is presented at <a href="https://cvpr.thecvf.com/Conferences/2025">CVPR 2025</a>.</li>
