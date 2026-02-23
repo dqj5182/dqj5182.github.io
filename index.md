@@ -48,7 +48,8 @@ Hyeongjin Nam, <strong>Daniel Sungho Jung</strong>, Kyoung Mu Lee
 <br>
 <strong>Conference on Computer Vision and Pattern Recognition (CVPR), 2026</strong>
 <br>
-<a href="https://hygenie1228.github.io/TeHOR/">project page</a>
+<a href="https://hygenie1228.github.io/TeHOR/">project page</a> /
+<a href="https://hygenie1228.github.io/TeHOR/static/TeHOR.pdf">paper</a>
 </p>
 
 
