@@ -41,6 +41,17 @@ Before joining [SNU](https://www.snu.ac.kr/index.html), I finished my undegradua
 
 <h2>Publications</h2>
 <p>
+<img src="https://dqj5182.github.io/assets/img/hoil_profile.png" alt="TC_CLIP_framework" style="width: auto; height: 180px; display: block; margin: 0;">
+<strong>Learning Human-Object Interaction for 3D Human Pose Estimation from LiDAR Point Clouds</strong>
+<br>
+<strong>Daniel Sungho Jung</strong>, Dohee Cho, Kyoung Mu Lee
+<br>
+<strong>arXiv, 2026</strong>
+<br>
+<a href="https://hoil-release.github.io/">project page</a>
+</p>
+
+<p>
 <img src="https://dqj5182.github.io/assets/img/tehor_profile.gif" alt="TC_CLIP_framework" style="width: auto; height: 180px; display: block; margin: 0;">
 <strong>TeHOR: Text-Guided 3D Human and Object Reconstruction with Textures</strong>
 <br>
