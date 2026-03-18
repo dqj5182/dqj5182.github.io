@@ -23,6 +23,7 @@ Before joining [SNU](https://www.snu.ac.kr/index.html), I finished my undegradua
 <h2>News</h2>
 
 <ul>
+<li><strong>[Mar 2026]</strong> One paper about 3D human pose estimation from LiDAR is presented at <a href="[https://cvpr.thecvf.com/Conferences/2026](https://arxiv.org/)">arXiv 2026</a>.</li>
 <li><strong>[Feb 2026]</strong> Two papers about human-object interaction and foot contact are accepted at <a href="https://cvpr.thecvf.com/Conferences/2026">CVPR 2026</a>.</li>
 <li><strong>[Dec 2025]</strong> One paper about hand contact is presented at <a href="https://neurips.cc/Conferences/2025">NeurIPS 2025</a>.</li>
 <li><strong>[Jun 2025]</strong> I co-organized the <a href="https://sites.google.com/view/cv4metaverse-2025">4th CV4Metaverse Workshop</a> at <a href="https://cvpr.thecvf.com/Conferences/2025">CVPR 2025</a>.</li>
@@ -46,9 +47,11 @@ Before joining [SNU](https://www.snu.ac.kr/index.html), I finished my undegradua
 <br>
 <strong>Daniel Sungho Jung</strong>, Dohee Cho, Kyoung Mu Lee
 <br>
-<strong>To Be Announced</strong>
+<strong>arXiv, 2026</strong>
 <br>
-<a href="https://hoil-release.github.io/">project page</a>
+<a href="https://hoil-release.github.io/">project page</a> /
+<a href="http://arxiv.org/pdf/2603.16343">paper</a> /
+<a href="http://arxiv.org/abs/2603.16343">arxiv</a>
 </p>
 
 <p>
