@@ -11,7 +11,7 @@ I am a fifth-year Ph.D. candidate in Artificial Intelligence at [Seoul National 
 
 Previously, I was also part of [SONY](https://www.sony.com/en/) and [KAIST](https://www.kaist.ac.kr/en/) as a visiting researcher.
 
-My main research agenda is 3D Virtual Human for Extended Reality (XR), Robotics, and Interactive Entertainment.
+My main research agenda is 3D Virtual Human for Extended Reality (XR), Robotics, Autonomous Driving, and Interactive Entertainment.
 
 <!---
 Also, I am a reserach intern at [SONY](https://www.sony.com/en/).
