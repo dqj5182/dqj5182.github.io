@@ -278,6 +278,11 @@ Aug 2018 - May 2019
   <li><a href="https://sites.google.com/view/cv4metaverse-2024/organizers"><autocolor>CV4Metaverse Workshop at ECCV 2024</autocolor></a></li>
 </ul>
 
+<h4 style="margin:0 10px 0;">Journal Reviewer</h4>
+<ul style="margin:0 0 5px;">
+  <li><a href="https://signalprocessingsociety.org/publications-resources/ieee-transactions-multimedia"><autocolor> IEEE Transactions on Multimedia (TMM), 2026</autocolor></a></li>
+</ul>
+
 <h4 style="margin:0 10px 0;">Conference Reviewer</h4>
 
 <ul style="margin:0 0 5px;">
