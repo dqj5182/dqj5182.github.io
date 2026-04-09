@@ -299,8 +299,8 @@ Aug 2018 - May 2019
 
 <ul style="margin:0 0 20px;">
   <li><a href="https://icml.cc/Conferences/2026"><autocolor>International Conference on Machine Learning Workshops, 2026</autocolor></a></li>
-  <li><a href="https://cvpr.thecvf.com/Conferences/2025"><autocolor>Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 2025</autocolor></a></li>
-  <li><a href="https://eccv.ecva.net/Conferences/2024"><autocolor>European Conference on Computer Vision Workshops (ECCVW), 2024</autocolor></a></li>
+  <li><a href="https://cvpr.thecvf.com/Conferences/2025"><autocolor>Conference on Computer Vision and Pattern Recognition Workshops, 2025</autocolor></a></li>
+  <li><a href="https://eccv.ecva.net/Conferences/2024"><autocolor>European Conference on Computer Vision Workshops, 2024</autocolor></a></li>
 </ul>
 
 
