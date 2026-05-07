@@ -42,7 +42,7 @@ Before joining [SNU](https://www.snu.ac.kr/index.html), I finished my undegradua
 
 <h2>Publications</h2>
 <p>
-<img src="https://dqj5182.github.io/assets/img/contactprompt_profile.png" alt="TC_CLIP_framework" style="width: auto; height: 230px; display: block; margin: 0;">
+<img src="https://dqj5182.github.io/assets/img/contactprompt_profile.png" alt="TC_CLIP_framework" style="width: auto; height: 180; display: block; margin: 0;">
 <strong>Training-Free Dense Hand Contact Estimation with Multi-Modal Large Language Models</strong>
 <br>
 <strong>Daniel Sungho Jung</strong>, Kyoung Mu Lee
