@@ -50,7 +50,9 @@ Before joining [SNU](https://www.snu.ac.kr/index.html), I finished my undegradua
 <br>
 <strong>arXiv, 2026</strong>
 <br>
-<a href="https://contactprompt-release.github.io/">project page</a>
+<a href="https://contactprompt-release.github.io/">project page</a> /
+<a href="https://arxiv.org/pdf/2605.05886">paper</a> /
+<a href="https://arxiv.org/abs/2605.05886">arxiv</a>
 </p>
 
 <p>
