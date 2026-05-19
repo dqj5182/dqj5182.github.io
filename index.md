@@ -285,7 +285,7 @@ Aug 2018 - May 2019
 <h4 style="margin:0 10px 0;">Workshop Organizer</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://sites.google.com/view/mustcv-2026/"><autocolor>MUSTCV Workshop at CVPR 2026</autocolor></a></li>
+  <li><a href="https://sites.google.com/view/mustcv-2026/"><autocolor>MUSTCV Workshop at ECCV 2026</autocolor></a></li>
   <li><a href="https://sites.google.com/view/cv4metaverse-2025/"><autocolor>CV4Metaverse Workshop at CVPR 2025</autocolor></a></li>
 </ul>
 
