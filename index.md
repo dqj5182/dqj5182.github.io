@@ -80,6 +80,7 @@ Hyeongjin Nam, <strong>Daniel Sungho Jung</strong>, Kyoung Mu Lee
 <a href="https://hygenie1228.github.io/TeHOR/">project page</a> /
 <a href="https://arxiv.org/pdf/2602.19679">paper</a> /
 <a href="https://arxiv.org/abs/2602.19679">arxiv</a> /
+<a href="https://github.com/hygenie1228/TeHOR_RELEASE">code</a> /
 <strong><a style="color:#e74d3c; font-weight:600"><i>Highlight</i></a></strong>
 </p>
 
