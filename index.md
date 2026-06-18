@@ -73,7 +73,7 @@ Before joining [SNU](https://www.snu.ac.kr/index.html), I finished my undegradua
 
 
 <p>
-<img src="https://dqj5182.github.io/assets/img/printanything_profile.png" alt="TC_CLIP_framework" style="width: auto; height: 180px; display: block; margin: 0;">
+<img src="https://dqj5182.github.io/assets/img/printanything_profile.png" alt="TC_CLIP_framework" style="width: auto; height: 140px; display: block; margin: 0;">
 <strong>PrintAnything: Learning Geometric Plan Map for 3D Printing G-code Generation from Unoriented Point Clouds</strong>
 <br>
 Sangmin Hong, <strong>Daniel Sungho Jung</strong>, Heewon Kim, Kyoung Mu Lee
