@@ -69,6 +69,20 @@ Before joining [SNU](https://www.snu.ac.kr/index.html), I finished my undegradua
 <a href="http://arxiv.org/abs/2603.16343">arxiv</a>
 </p>
 
+
+
+<p>
+<img src="https://dqj5182.github.io/assets/img/printanything_profile.png" alt="TC_CLIP_framework" style="width: auto; height: 180px; display: block; margin: 0;">
+<strong>PrintAnything: Learning Geometric Plan Map for 3D Printing G-code Generation from Unoriented Point Clouds</strong>
+<br>
+Sangmin Hong , <strong>Daniel Sungho Jung</strong>, Heewon Kim, Kyoung Mu Lee
+<br>
+<strong>European Conference on Computer Vision (ECCV), 2026</strong>
+</p>
+
+
+
+
 <p>
 <img src="https://dqj5182.github.io/assets/img/tehor_profile.gif" alt="TC_CLIP_framework" style="width: auto; height: 180px; display: block; margin: 0;">
 <strong>TeHOR: Text-Guided 3D Human and Object Reconstruction with Textures</strong>
