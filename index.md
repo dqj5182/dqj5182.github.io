@@ -79,6 +79,10 @@ Before joining [SNU](https://www.snu.ac.kr/index.html), I finished my undegradua
 Sangmin Hong, <strong>Daniel Sungho Jung</strong>, Heewon Kim, Kyoung Mu Lee
 <br>
 <strong>European Conference on Computer Vision (ECCV), 2026</strong>
+<br>
+<a href="https://arxiv.org/pdf/2607.27729">paper</a> /
+<a href="https://arxiv.org/abs/2607.27729">arxiv</a> /
+<a href="https://github.com/Sangminhong/PrintAnything">code</a>
 </p>
 
 
