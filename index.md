@@ -23,6 +23,7 @@ Before joining [SNU](https://www.snu.ac.kr/index.html), I finished my undegradua
 <h2>News</h2>
 
 <ul>
+<li><strong>[Jun 2026]</strong> One paper about humanoid-object loco-manipulation is presented at <a href="https://arxiv.org/">arXiv 2026</a>.</li>
 <li><strong>[Jun 2026]</strong> One paper about 3D printing is accepted at <a href="https://eccv.ecva.net/Conferences/2026">ECCV 2026</a>.</li>
 <li><strong>[May 2026]</strong> One paper about dense hand contact estimation is presented at <a href="https://arxiv.org/">arXiv 2026</a>.</li>
 <li><strong>[Mar 2026]</strong> One paper about 3D human pose estimation from LiDAR is presented at <a href="https://arxiv.org/">arXiv 2026</a>.</li>
@@ -44,6 +45,20 @@ Before joining [SNU](https://www.snu.ac.kr/index.html), I finished my undegradua
 
 <h2>Publications</h2>
 <p>
+<img src="https://dqj5182.github.io/assets/img/dcrr_profile.png" alt="TC_CLIP_framework" style="width: auto; height: 180; display: block; margin: 0;">
+<strong>Learning Distance-Conditioned Object Transport for Humanoid Loco-Manipulation from a Single Motion Clip</strong>
+<br>
+Yuhyeon Hwang, <strong>Daniel Sungho Jung</strong>, YongHyeok Seo, Mingi Jung, Chang Nho Cho, Jung-Hoon Hwang, Dongin Shin
+<br>
+<strong>arXiv, 2026</strong>
+<br>
+<a href="https://arxiv.org/pdf/2609.21467">paper</a> /
+<a href="https://arxiv.org/abs/2609.21467">arxiv</a>
+</p>
+
+
+
+<p>
 <img src="https://dqj5182.github.io/assets/img/contactprompt_profile.png" alt="TC_CLIP_framework" style="width: auto; height: 180; display: block; margin: 0;">
 <strong>Training-Free Dense Hand Contact Estimation with Multi-Modal Large Language Models</strong>
 <br>
@@ -56,6 +71,8 @@ Before joining [SNU](https://www.snu.ac.kr/index.html), I finished my undegradua
 <a href="https://arxiv.org/abs/2605.05886">arxiv</a> /
 <a href="https://github.com/dqj5182/ContactPrompt_RELEASE">code</a>
 </p>
+
+
 
 <p>
 <img src="https://dqj5182.github.io/assets/img/hoil_profile.png" alt="TC_CLIP_framework" style="width: auto; height: 180px; display: block; margin: 0;">
