@@ -45,7 +45,7 @@ Before joining [SNU](https://www.snu.ac.kr/index.html), I finished my undegradua
 
 <h2>Publications</h2>
 <p>
-<img src="https://dqj5182.github.io/assets/img/dcrr_profile.png" alt="TC_CLIP_framework" style="width: 400px; height: auto; display: block; margin: 0;">
+<img src="https://dqj5182.github.io/assets/img/dcrr_profile.png" alt="TC_CLIP_framework" style="width: 350px; height: auto; display: block; margin: 0;">
 <strong>Learning Distance-Conditioned Object Transport for Humanoid Loco-Manipulation from a Single Motion Clip</strong>
 <br>
 Yuhyeon Hwang, <strong>Daniel Sungho Jung</strong>, YongHyeok Seo, Mingi Jung, Chang Nho Cho, Jung-Hoon Hwang, Dongin Shin
