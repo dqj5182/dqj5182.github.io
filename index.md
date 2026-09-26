@@ -26,7 +26,7 @@ Before joining [SNU](https://www.snu.ac.kr/index.html), I finished my undegradua
 <li><strong>[Sep 2026]</strong> One paper about humanoid loco-manipulation is presented at <a href="https://arxiv.org/">arXiv 2026</a>.</li>
 <li><strong>[Sep 2026]</strong> I co-organized the <a href="https://sites.google.com/view/mustcv-2026/">5th MUSTCV Workshop</a> at <a href="https://cvpr.thecvf.com/Conferences/2025">ECCV 2026</a>.</li>
 <li><strong>[Sep 2026]</strong> One paper about 3D printing is presented at <a href="https://eccv.ecva.net/Conferences/2026">ECCV 2026</a>.</li>
-<li><strong>[Aug 2026]</strong> I am selected as a Sponsored Ph.D. Scholar by Samsung Electronics.</li>
+<li><strong>[Aug 2026]</strong> I am selected as a Sponsored Ph.D. Scholar by [Samsung Electronics](https://www.samsung.com/us/).</li>
 <li><strong>[Jun 2026]</strong> Two papers about human-object interaction are presented at <a href="https://cvpr.thecvf.com/Conferences/2026">CVPR 2026</a>.</li>
 <li><strong>[May 2026]</strong> One paper about dense hand contact estimation is presented at <a href="https://arxiv.org/">arXiv 2026</a>.</li>
 <li><strong>[Mar 2026]</strong> One paper about 3D human pose estimation from LiDAR is presented at <a href="https://arxiv.org/">arXiv 2026</a>.</li>
