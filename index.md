@@ -24,15 +24,15 @@ Before joining [SNU](https://www.snu.ac.kr/index.html), I finished my undegradua
 
 <ul>
 <li><strong>[Sep 2026]</strong> One paper about humanoid loco-manipulation is presented at <a href="https://arxiv.org/">arXiv 2026</a>.</li>
-<li><strong>[Sep 2026]</strong> I co-organized the <a href="https://sites.google.com/view/mustcv-2026/">5th MUSTCV Workshop</a> at <a href="https://cvpr.thecvf.com/Conferences/2025">ECCV 2026</a>.</li>
+<li><strong>[Sep 2026]</strong> I am co-organizing the <a href="https://sites.google.com/view/mustcv-2026/">5th MUSTCV Workshop</a> at <a href="https://cvpr.thecvf.com/Conferences/2025">ECCV 2026</a>.</li>
 <li><strong>[Sep 2026]</strong> One paper about 3D printing is presented at <a href="https://eccv.ecva.net/Conferences/2026">ECCV 2026</a>.</li>
 <li><strong>[Aug 2026]</strong> I am selected as a Sponsored Ph.D. Scholar by <a href="https://www.samsung.com/us/">Samsung Electronics</a>.</li>
 <li><strong>[Jun 2026]</strong> Two papers about human-object interaction are presented at <a href="https://cvpr.thecvf.com/Conferences/2026">CVPR 2026</a>.</li>
 <li><strong>[May 2026]</strong> One paper about dense hand contact estimation is presented at <a href="https://arxiv.org/">arXiv 2026</a>.</li>
 <li><strong>[Mar 2026]</strong> One paper about 3D human pose estimation from LiDAR is presented at <a href="https://arxiv.org/">arXiv 2026</a>.</li>
-<li><strong>[Jun 2025]</strong> I co-organized the <a href="https://sites.google.com/view/cv4metaverse-2025">4th CV4Metaverse Workshop</a> at <a href="https://cvpr.thecvf.com/Conferences/2025">CVPR 2025</a>.</li>
-<li><strong>[Apr 2025]</strong> I joined <a href="https://www.sony.com/en/">SONY</a> as a Research Intern.</li>
-<li><strong>[Jun 2023]</strong> We presented as challenge winner at the 1st RHOBIN Workshop of <a href="https://cvpr.thecvf.com/Conferences/2023">CVPR 2023</a>.
+<li><strong>[Jun 2025]</strong> I am co-organizing the <a href="https://sites.google.com/view/cv4metaverse-2025">4th CV4Metaverse Workshop</a> at <a href="https://cvpr.thecvf.com/Conferences/2025">CVPR 2025</a>.</li>
+<li><strong>[Apr 2025]</strong> I am joining <a href="https://www.sony.com/en/">SONY</a> as a Research Intern.</li>
+<li><strong>[Jun 2023]</strong> I am presenting as challenge winner at the 1st RHOBIN Workshop of <a href="https://cvpr.thecvf.com/Conferences/2023">CVPR 2023</a>.
 </li>
 </ul>
 
