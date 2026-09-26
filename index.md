@@ -111,7 +111,7 @@ Hyeongjin Nam, <strong>Daniel Sungho Jung</strong>, Kyoung Mu Lee
 <strong>Conference on Computer Vision and Pattern Recognition (CVPR), 2026</strong>
 <br>
 <a href="https://hygenie1228.github.io/TeHOR/">project page</a> /
-<a href="https://arxiv.org/pdf/2602.19679">paper</a> /
+<a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Nam_TeHOR_Text-Guided_3D_Human_and_Object_Reconstruction_with_Textures_CVPR_2026_paper.pdf">paper</a> /
 <a href="https://arxiv.org/abs/2602.19679">arxiv</a> /
 <a href="https://github.com/hygenie1228/TeHOR_RELEASE">code</a> /
 <strong><a style="color:#e74d3c; font-weight:600"><i>Highlight</i></a></strong>
