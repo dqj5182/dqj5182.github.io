@@ -23,7 +23,7 @@ Before joining [SNU](https://www.snu.ac.kr/index.html), I finished my undegradua
 <h2>News</h2>
 
 <ul>
-<li><strong>[Sep 2026]</strong> One paper about humanoid loco-manipulation is presented at <a href="https://arxiv.org/">arXiv 2026</a>.</li>
+<!-- <li><strong>[Sep 2026]</strong> One paper about humanoid loco-manipulation is presented at <a href="https://arxiv.org/">arXiv 2026</a>.</li> -->
 <li><strong>[Sep 2026]</strong> I am co-organizing the <a href="https://sites.google.com/view/mustcv-2026/">5th MUSTCV Workshop</a> at <a href="https://cvpr.thecvf.com/Conferences/2025">ECCV 2026</a>.</li>
 <li><strong>[Sep 2026]</strong> One paper about 3D printing is presented at <a href="https://eccv.ecva.net/Conferences/2026">ECCV 2026</a>.</li>
 <li><strong>[Aug 2026]</strong> I am selected as a Sponsored Ph.D. Scholar by <a href="https://www.samsung.com/us/">Samsung Electronics</a>.</li>
@@ -42,7 +42,7 @@ Before joining [SNU](https://www.snu.ac.kr/index.html), I finished my undegradua
 
 
 <h2>Publications</h2>
-<p>
+<!-- <p>
 <img src="https://dqj5182.github.io/assets/img/dcrr_profile.png" alt="TC_CLIP_framework" style="width: 350px; height: auto; display: block; margin: 0;">
 <strong>Learning Distance-Conditioned Object Transport for Humanoid Loco-Manipulation from a Single Motion Clip</strong>
 <br>
@@ -52,7 +52,7 @@ Yuhyeon Hwang, <strong>Daniel Sungho Jung</strong>, YongHyeok Seo, Mingi Jung, C
 <br>
 <a href="https://arxiv.org/pdf/2609.21467">paper</a> /
 <a href="https://arxiv.org/abs/2609.21467">arxiv</a>
-</p>
+</p> -->
 
 
 
