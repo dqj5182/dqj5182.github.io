@@ -32,7 +32,7 @@ Before joining [SNU](https://www.snu.ac.kr/index.html), I finished my undegradua
 <li><strong>[Mar 2026]</strong> One paper about 3D human pose estimation from LiDAR is presented at <a href="https://arxiv.org/">arXiv 2026</a>.</li>
 <li><strong>[Jun 2025]</strong> I am co-organizing the <a href="https://sites.google.com/view/cv4metaverse-2025">4th CV4Metaverse Workshop</a> at <a href="https://cvpr.thecvf.com/Conferences/2025">CVPR 2025</a>.</li>
 <li><strong>[Apr 2025]</strong> I am joining <a href="https://www.sony.com/en/">SONY</a> as a Research Intern.</li>
-<li><strong>[Jun 2023]</strong> I am presenting as challenge winner at the 1st RHOBIN Workshop of <a href="https://cvpr.thecvf.com/Conferences/2023">CVPR 2023</a>.
+<li><strong>[Jun 2023]</strong> I am presenting as challenge winner at the <a href="https://rhobin-challenge.github.io/cvpr23/index.html">1st RHOBIN Workshop</a> of <a href="https://cvpr.thecvf.com/Conferences/2023">CVPR 2023</a>.
 </li>
 </ul>
 
