@@ -62,7 +62,7 @@ Yuhyeon Hwang, <strong>Daniel Sungho Jung</strong>, YongHyeok Seo, Mingi Jung, C
 <br>
 <strong>Daniel Sungho Jung</strong>, Kyoung Mu Lee
 <br>
-<strong>Under Review</strong>
+<strong>Under Review at Pattern Recognition Letters</strong>
 <br>
 <a href="https://contactprompt-release.github.io/">project page</a> /
 <a href="https://arxiv.org/pdf/2605.05886">paper</a> /
