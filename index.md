@@ -42,6 +42,20 @@ Before joining [SNU](https://www.snu.ac.kr/index.html), I finished my undegradua
 
 
 <h2>Publications</h2>
+<p>
+<img src="https://dqj5182.github.io/assets/img/horia_profile.gif" alt="TC_CLIP_framework" style="width: auto; height: 180px; display: block; margin: 0;">
+<strong>HORIA: 4D Human and Object Reconstruction from a Monocular Video with Interaction-Aware Re-Rendering</strong>
+<br>
+Hyeongjin Nam, Taeryung Lee, <strong>Daniel Sungho Jung</strong>, Kyoung Mu Lee
+<br>
+<strong>arXiv, 2026</strong>
+<br>
+<a href="https://hygenie1228.github.io/HORIA/">project page</a>
+</p>
+
+
+
+
 <!-- <p>
 <img src="https://dqj5182.github.io/assets/img/dcrr_profile.png" alt="TC_CLIP_framework" style="width: 350px; height: auto; display: block; margin: 0;">
 <strong>Learning Distance-Conditioned Object Transport for Humanoid Loco-Manipulation from a Single Motion Clip</strong>
