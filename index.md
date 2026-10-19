@@ -56,7 +56,7 @@ Hyeongjin Nam, Taeryung Lee, <strong>Daniel Sungho Jung</strong>, Kyoung Mu Lee
 
 
 
-<!-- <p>
+<p>
 <img src="https://dqj5182.github.io/assets/img/dcrr_profile.png" alt="TC_CLIP_framework" style="width: 350px; height: auto; display: block; margin: 0;">
 <strong>Learning Distance-Conditioned Object Transport for Humanoid Loco-Manipulation from a Single Motion Clip</strong>
 <br>
@@ -66,7 +66,7 @@ Yuhyeon Hwang, <strong>Daniel Sungho Jung</strong>, YongHyeok Seo, Mingi Jung, C
 <br>
 <a href="https://arxiv.org/pdf/2609.21467">paper</a> /
 <a href="https://arxiv.org/abs/2609.21467">arxiv</a>
-</p> -->
+</p>
 
 
 
