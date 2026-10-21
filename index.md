@@ -51,7 +51,9 @@ Hyeongjin Nam, Taeryung Lee, <strong>Daniel Sungho Jung</strong>, Kyoung Mu Lee
 <br>
 <strong>arXiv, 2026</strong>
 <br>
-<a href="https://hygenie1228.github.io/HORIA/">project page</a>
+<a href="https://hygenie1228.github.io/HORIA/">project page</a> /
+<a href="https://arxiv.org/pdf/2610.25960">paper</a> /
+<a href="https://arxiv.org/abs/2610.25960">arxiv</a>
 </p>
 
 
