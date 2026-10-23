@@ -358,9 +358,9 @@ Aug 2018 - May 2019
   <li><a href="https://ijcai.org/"><autocolor>International Joint Conference on Artificial Intelligence (IJCAI), 2027</autocolor></a></li>
   <li><a href="https://aaai.org/conference/aaai/"><autocolor>AAAI Conference on Artificial Intelligence (AAAI), 2027</autocolor></a></li>
   <li><a href="https://virtual.aistats.org/"><autocolor>Annual Conference on Artificial Intelligence and Statistics (AISTATS), 2026-2027</autocolor></a></li>
+  <li><a href="https://iclr.cc/Conferences/2025/ProgramCommittee"><autocolor>International Conference on Learning Representations (ICLR), 2025-2027</autocolor></a></li>
   <li><a href="https://eccv.ecva.net"><autocolor> European Conference on Computer Vision (ECCV), 2026</autocolor></a></li>
   <li><a href="https://cvpr.thecvf.com/Conferences/2026"><autocolor> Conference on Computer Vision and Pattern Recognition (CVPR), 2026</autocolor></a></li>
-  <li><a href="https://iclr.cc/Conferences/2025/ProgramCommittee"><autocolor>International Conference on Learning Representations (ICLR), 2025-2026</autocolor></a></li>
   <li><a href="https://neurips.cc/Conferences/2024/ProgramCommittee#all-reviewers"><autocolor>Annual Conference on Neural Information Processing Systems (NeurIPS), 2024-2026</autocolor></a></li>
   <li><a href="https://wacv2025.thecvf.com/"><autocolor>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2025</autocolor></a></li>
 </ul>
