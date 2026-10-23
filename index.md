@@ -355,8 +355,8 @@ Aug 2018 - May 2019
 <h4 style="margin:0 10px 0;">Conference Reviewer</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://eccv.ecva.net"><autocolor> International Joint Conference on Artificial Intelligence (IJCAI), 2027</autocolor></a></li>
-  <li><a href="https://eccv.ecva.net"><autocolor> AAAI Conference on Artificial Intelligence (AAAI), 2027</autocolor></a></li>
+  <li><a href="https://ijcai.org/"><autocolor>International Joint Conference on Artificial Intelligence (IJCAI), 2027</autocolor></a></li>
+  <li><a href="https://aaai.org/conference/aaai/"><autocolor>AAAI Conference on Artificial Intelligence (AAAI), 2027</autocolor></a></li>
   <li><a href="https://virtual.aistats.org/"><autocolor>Annual Conference on Artificial Intelligence and Statistics (AISTATS), 2026-2027</autocolor></a></li>
   <li><a href="https://eccv.ecva.net"><autocolor> European Conference on Computer Vision (ECCV), 2026</autocolor></a></li>
   <li><a href="https://cvpr.thecvf.com/Conferences/2026"><autocolor> Conference on Computer Vision and Pattern Recognition (CVPR), 2026</autocolor></a></li>
