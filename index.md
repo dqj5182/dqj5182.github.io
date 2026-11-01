@@ -292,6 +292,13 @@ Xianghui Xie, Xi Wang, Nikos Athanasiou, Bharat Lal Bhatnagar, Chun-Hao P. Huang
 <h2>Teaching Experiences</h2>
 
 <p>
+<strong>Selected Topics in Computer Vision, Seoul National University</strong>
+<br>
+Teaching Assistant
+<br>
+<a href="https://ece.snu.ac.kr/en/research-faculty/faculty/fulltime?md=view&profid=p061"><autocolor>Prof. Kyoung Mu Lee</autocolor></a>
+<br>
+Mar 2026 - Jun 2026
 <strong>Introduction to Robotics, Seoul National University</strong>
 <br>
 Head Teaching Assistant
