@@ -299,6 +299,7 @@ Teaching Assistant
 <a href="https://ece.snu.ac.kr/en/research-faculty/faculty/fulltime?md=view&profid=p061"><autocolor>Prof. Kyoung Mu Lee</autocolor></a>
 <br>
 Mar 2026 - Jun 2026
+<br>
 <strong>Introduction to Robotics, Seoul National University</strong>
 <br>
 Head Teaching Assistant
