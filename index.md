@@ -357,6 +357,7 @@ Aug 2018 - May 2019
 
 <h4 style="margin:0 10px 0;">Journal Reviewer</h4>
 <ul style="margin:0 0 5px;">
+  <li><a href="https://www.sciencedirect.com/journal/neurocomputing"><autocolor> Neurocomputing, 2026</autocolor></a></li>
   <li><a href="https://signalprocessingsociety.org/publications-resources/ieee-transactions-multimedia"><autocolor> IEEE Transactions on Multimedia (TMM), 2026</autocolor></a></li>
 </ul>
 
