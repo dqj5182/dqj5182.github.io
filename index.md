@@ -145,10 +145,11 @@ Hyeongjin Nam, <strong>Daniel Sungho Jung</strong>, Kyoung Mu Lee
 <br>
 <strong>Conference on Computer Vision and Pattern Recognition (CVPR), 2026</strong>
 <br>
-  <a href="https://feco-release.github.io/">project page</a> /
+<a href="https://feco-release.github.io/">project page</a> /
 <a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Jung_Shoe_Style-Invariant_and_Ground-Aware_Learning_for_Dense_Foot_Contact_Estimation_CVPR_2026_paper.pdf">paper</a> /
 <a href="https://arxiv.org/abs/2511.22184">arxiv</a> /
-<a href="https://github.com/dqj5182/FECO_RELEASE">code</a>
+<a href="https://github.com/dqj5182/FECO_RELEASE">code</a> /
+<a href="https://huggingface.co/spaces/dqj5182/FECO">demo</a>
 </p>
 
 
