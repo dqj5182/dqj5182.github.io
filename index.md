@@ -23,6 +23,7 @@ Before joining [SNU](https://www.snu.ac.kr/index.html), I finished my undegradua
 <h2>News</h2>
 
 <ul>
+<li><strong>[Nov 2026]</strong> One paper about dense head contact is presented at <a href="https://arxiv.org/">arXiv 2026</a>.</li>
 <li><strong>[Oct 2026]</strong> One paper about 4D human-object interaction is presented at <a href="https://arxiv.org/">arXiv 2026</a>.</li>
 <li><strong>[Sep 2026]</strong> One paper about humanoid loco-manipulation is presented at <a href="https://arxiv.org/">arXiv 2026</a>.</li>
 <li><strong>[Sep 2026]</strong> I am co-organizing the <a href="https://sites.google.com/view/mustcv-2026/">5th MUSTCV Workshop</a> at <a href="https://cvpr.thecvf.com/Conferences/2025">ECCV 2026</a>.</li>
@@ -43,6 +44,21 @@ Before joining [SNU](https://www.snu.ac.kr/index.html), I finished my undegradua
 
 
 <h2>Publications</h2>
+<p>
+<img src="https://dqj5182.github.io/assets/img/heco_profile.png" alt="TC_CLIP_framework" style="width: auto; height: 180px; display: block; margin: 0;">
+<strong>Learning Dense Head-Object Contact Estimation with Synthetic Data</strong>
+<br>
+<strong>Daniel Sungho Jung</strong>, Kyoung Mu Lee
+<br>
+<strong>arXiv, 2026</strong>
+<br>
+<a href="https://heco-release.github.io/">project page</a> /
+<a href="https://arxiv.org/pdf/2611.30751">paper</a> /
+<a href="https://arxiv.org/abs/2611.30751">arxiv</a>
+</p>
+
+
+
 <p>
 <img src="https://dqj5182.github.io/assets/img/horia_profile.gif" alt="TC_CLIP_framework" style="width: auto; height: 180px; display: block; margin: 0;">
 <strong>HORIA: 4D Human and Object Reconstruction from a Monocular Video with Interaction-Aware Re-Rendering</strong>
