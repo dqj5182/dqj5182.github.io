@@ -54,7 +54,8 @@ Before joining [SNU](https://www.snu.ac.kr/index.html), I finished my undegradua
 <br>
 <a href="https://heco-release.github.io/">project page</a> /
 <a href="https://arxiv.org/pdf/2611.30751">paper</a> /
-<a href="https://arxiv.org/abs/2611.30751">arxiv</a>
+<a href="https://arxiv.org/abs/2611.30751">arxiv</a> /
+<a href="https://github.com/dqj5182/HECO_RELEASE">code</a>
 </p>
 
 
